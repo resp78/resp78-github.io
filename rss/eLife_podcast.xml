@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://www.thenakedscientists.com/rss/eLife_podcast.xml" rel="self" type="application/rss+xml"/>
+    <title>The eLife Podcast</title>
+    <description><![CDATA[The eLife Podcast, from eLife, the researcher-led, open access digital publication for outstanding research in life science and biomedicine.]]></description>
+    <link>https://www.thenakedscientists.com/podcasts/elife-podcast</link>
+    <language>en</language>
+    <ttl>30</ttl>
+    <copyright><![CDATA[The Naked Scientists]]></copyright>
+    <docs>https://www.thenakedscientists.com/podcasts/elife-podcast</docs>
+    <lastBuildDate>Fri, 20 Dec 2019 14:55:06 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Dec 2019 02:51:31 +0000</pubDate>
+    <generator>Naked Scientists Pod Publisher</generator>
+    <image>
+      <title>The eLife Podcast</title>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast</link>
+      <url>https://www.thenakedscientists.com/sites/default/files/media/media/images/NS_eLife_1400.png</url>
+    </image>
+    <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/media/images/NS_eLife_1400.png"/>
+    <itunes:subtitle><![CDATA[The eLife Podcast: outstanding research in life science and biomedicine.]]></itunes:subtitle>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Dr Chris Smith</itunes:author>
+    <itunes:summary>The eLife Podcast: outstanding research in life science and biomedicine.</itunes:summary>
+    <itunes:owner>
+      <itunes:name><![CDATA[Dr Chris Smith]]></itunes:name>
+      <itunes:email>chris@thenakedscientists.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>elife podcast, bioscience, open access publishing, biomedical science, biology</itunes:keywords>
+    <itunes:category text="Science">
+      <itunes:category text="Life Sciences"/>
+    </itunes:category>
+    <itunes:category text="Science">
+      <itunes:category text="Natural Sciences"/>
+    </itunes:category>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine"/>
+    </itunes:category>
+    <item>
+      <title>Tardigrades and the Ten Commandments</title>
+      <itunes:title>Tardigrades and the Ten Commandments</itunes:title>
+      <itunes:episode>61</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/tardigrades-and-ten-commandments</link>
+      <pubDate>Fri, 20 Dec 2019 02:51:31 +0000</pubDate>
+      <itunes:subtitle>What accounts for the bomb-proof biology of the tardigrade?</itunes:subtitle>
+      <itunes:summary><![CDATA[What accounts for the bomb-proof biology of the tardigrade? How do ants avoid traffic jams? Why thou shalt not abuse statistics in 2020, do badgers transmit bovine TB to cows, and is mental illness on the rise among early-career scientists? Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[What accounts for the bomb-proof biology of the tardigrade? How do ants avoid traffic jams? Why thou shalt not abuse statistics in 2020, do badgers transmit bovine TB to cows, and is mental illness on the rise among early-career scientists? Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:31</itunes:duration>
+      <itunes:keywords>tardigrades,ants,traffic jams,statistics,mental illness,bovine TB,badgers,cows,DNA,chromatin,elife</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-8jF2zJgNeb.jpg"/>
+      <guid isPermaLink="false">https://www.thenakedscientists.com/sites/default/files/media/podcasts/episodes/guid/2PJYmInA6qxr</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.12.mp3" length="30266095" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How many new mutations from Mum and Dad?</title>
+      <itunes:title>How many new mutations from Mum and Dad?</itunes:title>
+      <itunes:episode>60</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/how-many-new-mutations-mum-and-dad</link>
+      <pubDate>Thu, 31 Oct 2019 01:15:17 +0000</pubDate>
+      <itunes:subtitle>How many DNA changes did Mum and Dad bestow upon each of us? And why too little sleep gives us a taste for junk food...</itunes:subtitle>
+      <itunes:summary><![CDATA[This month, join Chris Smith to hear how sleep deprivation sends your endocannabinoids skyrocketing and triggers a tendency to binge, how many new genetic mutations you inherit from your parents, the gene for behaviour that turned out to be nothing of the sort, what good and bad learners have in common with youTube influencers, and from online collective whinge to paper in eLife: the careers of newly appointed PIs. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[This month, join Chris Smith to hear how sleep deprivation sends your endocannabinoids skyrocketing and triggers a tendency to binge, how many new genetic mutations you inherit from your parents, the gene for behaviour that turned out to be nothing of the sort, what good and bad learners have in common with youTube influencers, and from online collective whinge to paper in eLife: the careers of newly appointed PIs. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:keywords>elife podcast,genetic mutations from parents,science careers,good and bad learners,sleep and appetite,yellow gene drosophila,surabhi bhutani,jonathan massey,david metz,thomas sasani</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-Umk1kSVVvu.jpg"/>
+      <guid isPermaLink="false">https://www.thenakedscientists.com/sites/default/files/media/podcasts/episodes/guid/BTqrERtkDbqP</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.10.mp3" length="34263039" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Astronauts, geese and realistic retinas</title>
+      <itunes:title>Astronauts, geese and realistic retinas</itunes:title>
+      <itunes:episode>59</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/astronauts-geese-and-realistic-retinas</link>
+      <pubDate>Thu, 26 Sep 2019 05:12:00 +0100</pubDate>
+      <itunes:subtitle>How geese make it over the Himalayas, life aboard the ISS and organoids recreate a retina in a dish...</itunes:subtitle>
+      <itunes:summary><![CDATA[This month, doctors doing U-turns: the medical practices without much evidence to prop them up, wind-tunnel experiments reveal how geese fly at extreme altitudes, why mating makes bees go blind, stress remodelling the brain's myelin, and what goes on during a stint aboard the International Space Station? Join Chris Smith for a look inside the latest papers in eLife... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[This month, doctors doing U-turns: the medical practices without much evidence to prop them up, wind-tunnel experiments reveal how geese fly at extreme altitudes, why mating makes bees go blind, stress remodelling the brain's myelin, and what goes on during a stint aboard the International Space Station? Join Chris Smith for a look inside the latest papers in eLife... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:40:25</itunes:duration>
+      <itunes:keywords>clinical evidence,evidence-based medicine,Vinay Prasad,jessica meir,astronaut,international space station,bar-headed geese,altitude physiology,myelin,depression,stress,retinal organoids,bees,social insects</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-tZMuzj5LQ3.jpg"/>
+      <guid isPermaLink="false">https://www.thenakedscientists.com/sites/default/files/media/podcasts/episodes/guid/7jj279C8A0Xx</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.09.26.mp3" length="38801657" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Brain basis of blindsight</title>
+      <itunes:title>Brain basis of blindsight</itunes:title>
+      <itunes:episode>58</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-57-brain-basis-blindsight</link>
+      <pubDate>Tue, 09 Jul 2019 12:00:00 +0100</pubDate>
+      <itunes:subtitle>The blind monkey that can see, wasps that fumigate to keep food fresh, and imaging blood vessels...</itunes:subtitle>
+      <itunes:summary><![CDATA[This month, the blind monkey that lacks a visual cortex but can still see, the bee-hunting wasps that use a gas cloud to keep harmful fungi at bay, adaptive optics that can image blood vessels of all sizes in the eye, the new field of palaeoshellomics, and how to mix a family with a scientific career... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[This month, the blind monkey that lacks a visual cortex but can still see, the bee-hunting wasps that use a gas cloud to keep harmful fungi at bay, adaptive optics that can image blood vessels of all sizes in the eye, the new field of palaeoshellomics, and how to mix a family with a scientific career... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:34:21</itunes:duration>
+      <itunes:keywords>elife podcast</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-zfsCAokP8f.jpg"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_19.07.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.07.mp3" length="32981576" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Malaria and Myrmecophiles</title>
+      <itunes:title>Malaria and Myrmecophiles</itunes:title>
+      <itunes:episode>57</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-57-malaria-and-myrmecophiles</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Tracking malaria the molecular way, fossilised ant-defying beetles and a new editor-in-chief</itunes:subtitle>
+      <itunes:summary><![CDATA[This month, stunning fossil remains of a beetle that evolved to exploit ants and appeared rapidly after ants became social themselves, how inflammation in early life alters the ability of the nervous system to adapt to changing respiratory demands in adulthood, how DNA can be used to track where people picked up malaria, the researchers drawing up new ways to illustrate science, and meet Mike Eisen, eLife's new Editor-in-Chief... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[This month, stunning fossil remains of a beetle that evolved to exploit ants and appeared rapidly after ants became social themselves, how inflammation in early life alters the ability of the nervous system to adapt to changing respiratory demands in adulthood, how DNA can be used to track where people picked up malaria, the researchers drawing up new ways to illustrate science, and meet Mike Eisen, eLife's new Editor-in-Chief... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:49</itunes:duration>
+      <itunes:keywords>elife,adrianne huxtable,joe parker</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/f832e9a81b.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_19.06.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.06.mp3" length="30689672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Vaccines and viral swarms</title>
+      <itunes:title>Vaccines and viral swarms</itunes:title>
+      <itunes:episode>56</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-56-vaccines-and-viral-swarms</link>
+      <pubDate>Fri, 26 Apr 2019 12:00:00 +0100</pubDate>
+      <itunes:subtitle>Impacts of measles vaccination campaigns, brain remodelling and multipartite viruses</itunes:subtitle>
+      <itunes:summary><![CDATA[How the brain handles sensations from amputated body parts, evidence that government vaccination campaigns to target measles really work, the heel-prick blood test at birth that can detect prematurity, testing the reproducibility of science at the level of a whole nation, and the multipartite viruses the spread as an infectious swarm: scientists show that they replicate different parts of the virus in different cells... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[How the brain handles sensations from amputated body parts, evidence that government vaccination campaigns to target measles really work, the heel-prick blood test at birth that can detect prematurity, testing the reproducibility of science at the level of a whole nation, and the multipartite viruses the spread as an infectious swarm: scientists show that they replicate different parts of the virus in different cells... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:keywords>cortical remodelling,somatosensory cortex,amputation,daan wesselink,measles vaccination campaigns,million deaths study,Prabhat Jha,heel-prick sample,premature birth,kumanan wilson,brazilian reproducibility project,olavo amaral,multipartite viruses,fbnsv,stephane blanc,elife podcast</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-3xH328PZKm.jpg"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_19.04.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_04.19.mp3" length="31393206" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Weaponised insulin</title>
+      <itunes:title>Weaponised insulin</itunes:title>
+      <itunes:episode>55</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-55-weaponised-insulin</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <itunes:subtitle>The shellfish that release insulin into the water to catch fish, brain activity patterns that predict future addictions, how to do gene drive experiments safely, and is the first author position gender neutral? Chris Smith talks to leading...</itunes:subtitle>
+      <itunes:summary><![CDATA[The shellfish that release insulin into the water to catch fish, brain activity patterns that predict future addictions, how to do gene drive experiments safely, and is the first author position gender neutral? Chris Smith talks to leading scientists publishing groundbreaking papers in eLife... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[The shellfish that release insulin into the water to catch fish, brain activity patterns that predict future addictions, how to do gene drive experiments safely, and is the first author position gender neutral? Chris Smith talks to leading scientists publishing groundbreaking papers in eLife... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:27:08</itunes:duration>
+      <itunes:keywords>helena safavi,cone snail,conus geographus,insulin,diabetes,edmund rolls,addictions,brain connectivity,lateral orbitofrontal cortex,medial orbitofrontal cortex,smoking,nicotine addiction,alcohol addiction,jackson champer,gene drive,nichole broderick,gender</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/4b24f12616.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_19.03.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.03.mp3" length="26197959" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dodgy cells and big neurons</title>
+      <itunes:title>Dodgy cells and big neurons</itunes:title>
+      <itunes:episode>54</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-54-dodgy-cells-and-big-neurons</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Why one in five published papers that use cultured cells may be wrong, the frog that sings underwater without air, genes that make you live longer, seeing evolution through bats' eyes, and do brainier people have bigger brain cells? Join...</itunes:subtitle>
+      <itunes:summary><![CDATA[Why one in five published papers that use cultured cells may be wrong, the frog that sings underwater without air, genes that make you live longer, seeing evolution through bats' eyes, and do brainier people have bigger brain cells? Join Chris Smith as he talks to the authors of five hard-hitting new papers published in eLife... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[Why one in five published papers that use cultured cells may be wrong, the frog that sings underwater without air, genes that make you live longer, seeing evolution through bats' eyes, and do brainier people have bigger brain cells? Join Chris Smith as he talks to the authors of five hard-hitting new papers published in eLife... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:keywords>cultured cells,contaminated cell culture,anita bandrowski,xenopus boumbaensis,darcey kelley,ursula kwong-brown,frog singing,peter joshi,genes and ageing,longevity,lifespan,gwas,uk biobank,evolution,bat vision,alexa sadier,huib mansvelder,neurones,brian c</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/86826f7d8a.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_19.02.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.02.mp3" length="33111872" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Insect Farmers and oxytocin</title>
+      <itunes:title>Insect Farmers and oxytocin</itunes:title>
+      <itunes:episode>53</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-53-insect-farmers-and-oxytocin</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:subtitle>This month in the eLife Podcast, how scientists got oestrogen signalling all wrong in breast cancer, fungus-farming ants and their microbial helpers, how smells influence memory, the tension between Pacific mineral riches and deep-sea...</itunes:subtitle>
+      <itunes:summary><![CDATA[This month in the eLife Podcast, how scientists got oestrogen signalling all wrong in breast cancer, fungus-farming ants and their microbial helpers, how smells influence memory, the tension between Pacific mineral riches and deep-sea species, and how oxytocin boosts bravery... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[This month in the eLife Podcast, how scientists got oestrogen signalling all wrong in breast cancer, fungus-farming ants and their microbial helpers, how smells influence memory, the tension between Pacific mineral riches and deep-sea species, and how oxytocin boosts bravery... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:36:10</itunes:duration>
+      <itunes:keywords>breast cancer,oestrogen receptor signalling,andrew holding,leaf-cutter ants,atta colombica,koos boomsma,memory,smells,olfaction,laura shanahan,ocean mineral,pacific abyss,adrian glover,gerlinde metz,oxytocin</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/c5f447e688.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_19.01.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_19.01.mp3" length="34872302" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fossil Flowers, and Fur Seal Parasites</title>
+      <itunes:title>Fossil Flowers, and Fur Seal Parasites</itunes:title>
+      <itunes:episode>52</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-52-fossil-flowers-and-fur-seal-parasites</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode of the eLife Podcast, the nerves with a taste for salt, why fur seal pups succumb to hookworms, the oldest fossilised flowers ever found, the monkey business of chimp personalities, and the 11 million year old flying...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife Podcast, the nerves with a taste for salt, why fur seal pups succumb to hookworms, the oldest fossilised flowers ever found, the monkey business of chimp personalities, and the 11 million year old flying squirrel foung in a rubbish tip... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife Podcast, the nerves with a taste for salt, why fur seal pups succumb to hookworms, the oldest fossilised flowers ever found, the monkey business of chimp personalities, and the 11 million year old flying squirrel foung in a rubbish tip... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:53</itunes:duration>
+      <itunes:keywords>elife podcast,fly taste,salt sensing neurones,mike gordon,fur seals,hookworms,patagonia fur seals,climate change,mauricio seguel,fossil flowers,angiosperm fossil,xin wang,jurassic flowers,personality,personality evolution,chimpanzee personality,flying</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/ddfce5f24d.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_18.12.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_18.12.mp3" length="30753336" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Transmissible Tumours and LSD Receptors</title>
+      <itunes:title>Transmissible Tumours and LSD Receptors</itunes:title>
+      <itunes:episode>51</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-51-transmissible-tumours-and-lsd-receptors</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      <itunes:subtitle>The wildlife impact of urban sprawl, how climate change will affect the distribution of mosquito-borne outbreaks, Devil Facial Tumour Disease 2, how LSD works in the brain and gender bias in peer review all go under the microscope in this...</itunes:subtitle>
+      <itunes:summary><![CDATA[The wildlife impact of urban sprawl, how climate change will affect the distribution of mosquito-borne outbreaks, Devil Facial Tumour Disease 2, how LSD works in the brain and gender bias in peer review all go under the microscope in this latest episode of the eLife Podcast. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[The wildlife impact of urban sprawl, how climate change will affect the distribution of mosquito-borne outbreaks, Devil Facial Tumour Disease 2, how LSD works in the brain and gender bias in peer review all go under the microscope in this latest episode of the eLife Podcast. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:34:16</itunes:duration>
+      <itunes:keywords>elife podcast,arielle parsons,hannah siddle,jennifer raymond,katrin preller,marta shocket,urban jungle,urban wildlife,devil facial tumour disease,LSD,lysergic acid diethylamide,gender bias,peer review,climate change disease spread,chris smith</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/4b16628e36.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_18.11.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_18.11.mp3" length="33047516" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Inside Your Microbiome</title>
+      <itunes:title>Inside Your Microbiome</itunes:title>
+      <itunes:episode>50</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-50-inside-your-microbiome</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0100</pubDate>
+      <itunes:subtitle>This special edition of the eLife Podcast marks our 50th episode and we've decided to mark the milestone by focusing on a field that's huge and tiny both at the same time: huge in terms of the rate at which the discipline's growing and the...</itunes:subtitle>
+      <itunes:summary><![CDATA[This special edition of the eLife Podcast marks our 50th episode and we've decided to mark the milestone by focusing on a field that's huge and tiny both at the same time: huge in terms of the rate at which the discipline's growing and the impact it's set to have our lives, and tiny because its subjects are microscopic. It's our microbiome, the community of micro-organisms that live on us and in us and outnumber our own human cells by maybe 50 fold: we're literally passengers in our own bodies, and over the next 30 minutes we'll hear how gut bacteria might alter your risk of diabetes, and how... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[This special edition of the eLife Podcast marks our 50th episode and we've decided to mark the milestone by focusing on a field that's huge and tiny both at the same time: huge in terms of the rate at which the discipline's growing and the impact it's set to have our lives, and tiny because its subjects are microscopic. It's our microbiome, the community of micro-organisms that live on us and in us and outnumber our own human cells by maybe 50 fold: we're literally passengers in our own bodies, and over the next 30 minutes we'll hear how gut bacteria might alter your risk of diabetes, and how... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:57</itunes:duration>
+      <itunes:keywords>elife,microbiome,bacteria,vitamin b12,antibiotics,microbiome and disease link,microbiome personality,mood disorders,sociability,linoleic acid,sara dirienzi,martin blaser,roman stilling,aaron wexler,jens walter</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/5df584c336.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_18.09.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_18.09.mp3" length="30826029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pigeon patterning and stiff lungs</title>
+      <itunes:title>Pigeon patterning and stiff lungs</itunes:title>
+      <itunes:episode>49</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-49-pigeon-patterning-and-stiff-lungs</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this episode of the eLife Podcast, we hear about the RNA world, bovine TB, lung fibrosis, and why rock pigeons have different wing patterns......</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife Podcast, we hear about the RNA world, bovine TB, lung fibrosis, and why rock pigeons have different wing patterns... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife Podcast, we hear about the RNA world, bovine TB, lung fibrosis, and why rock pigeons have different wing patterns... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:49</itunes:duration>
+      <itunes:keywords>rna replication,rna,DNA,early life,pigeon plumage,bird colouration genes,bovine tb,tb vaccine,field trials,badgers tb,pulmonary fibrosis,lung fibrosis,phil holliger,mike shapiro,andrew conlan,mark jones</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/155996779c.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_08.18.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_08.18.mp3" length="27812147" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bugs and Drugs, and Chocolate Cake</title>
+      <itunes:title>Bugs and Drugs, and Chocolate Cake</itunes:title>
+      <itunes:episode>48</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-48-bugs-and-drugs-and-chocolate-cake</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this episode of the eLife Podcast, signs that trees exchange genes over hundreds of kilometres, how our gut bacteria protect us from plant toxins, and new insights into the placebo effect......</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife Podcast, signs that trees exchange genes over hundreds of kilometres, how our gut bacteria protect us from plant toxins, and new insights into the placebo effect... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife Podcast, signs that trees exchange genes over hundreds of kilometres, how our gut bacteria protect us from plant toxins, and new insights into the placebo effect... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:30</itunes:duration>
+      <itunes:keywords>elife,sarah sokol,megan supple,saleem nicola,arvina grahl,peter turnbaugh,nucleus accumbens,food,weight gain,digoxin,egerthella lenta,eucalypt,toxoplasmosis,placebo effect</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/2ee5eeb51f.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_06.18.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_06.18.mp3" length="30396391" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BatNav, TB and Aspirin</title>
+      <itunes:title>BatNav, TB and Aspirin</itunes:title>
+      <itunes:episode>47</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-47-batnav-tb-and-aspirin</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this eLife Podcast, echolocation in bats, chemical probes for open science, using aspirin to manage TB meningitis, brain topography, and combining science and parenthood......</itunes:subtitle>
+      <itunes:summary><![CDATA[In this eLife Podcast, echolocation in bats, chemical probes for open science, using aspirin to manage TB meningitis, brain topography, and combining science and parenthood... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this eLife Podcast, echolocation in bats, chemical probes for open science, using aspirin to manage TB meningitis, brain topography, and combining science and parenthood... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:34:25</itunes:duration>
+      <itunes:keywords>elife,bat navigation,batnav,aspirin,tuberculous meningitis,tb,tuberculosis,guy thwaites,melville wohlgemuth,ninad kothari,susanne mller-knapp,janine bijsterbosch,chemical probes,open science,brain mapping,brain function,superior colliculus,parenthood</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/fad7afa3b3.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_05.18.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_05.18.mp3" length="33192514" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Robin Hood and Autism</title>
+      <itunes:title>Robin Hood and Autism</itunes:title>
+      <itunes:episode>46</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-46-robin-hood-and-autism</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0100</pubDate>
+      <itunes:subtitle>How much of the world's scientific literature now sits in SciHub, we hear why statins might be making diabetes worse, if oxygen did - or didn't - hold back the evolution of multicellular life, the neurological basis of lip-reading, and how...</itunes:subtitle>
+      <itunes:summary><![CDATA[How much of the world's scientific literature now sits in SciHub, we hear why statins might be making diabetes worse, if oxygen did - or didn't - hold back the evolution of multicellular life, the neurological basis of lip-reading, and how the brain can compensate for autism... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[How much of the world's scientific literature now sits in SciHub, we hear why statins might be making diabetes worse, if oxygen did - or didn't - hold back the evolution of multicellular life, the neurological basis of lip-reading, and how the brain can compensate for autism... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:37:47</itunes:duration>
+      <itunes:keywords>elife,olivier collignon,david james,daniel fazakerley,daniel mills,daniel himmelstein,marie schaer,holger sperdin,insulin resistance,diabetes,coenzyme q,scihub,science publishing,evolution,autism,lip reading</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-bM1ErkTn8J.jpg"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_18.03.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_18.03.mp3" length="36280359" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ant Undertakers and the Human Cell Atlas</title>
+      <itunes:title>Ant Undertakers and the Human Cell Atlas</itunes:title>
+      <itunes:episode>45</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-45-ant-undertakers-and-human-cell-atlas</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode, we hear about disease control in insects, placental development, post-traumatic stress disorder, the mission to create a human cell atlas and how crickets amplify their song......</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode, we hear about disease control in insects, placental development, post-traumatic stress disorder, the mission to create a human cell atlas and how crickets amplify their song... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode, we hear about disease control in insects, placental development, post-traumatic stress disorder, the mission to create a human cell atlas and how crickets amplify their song... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:32:41</itunes:duration>
+      <itunes:keywords>elife podcast,ants,crickets,post traumatic stress disorder,pre-eclampsia,human cell atlas,sarah teichman,pearl chiu,katie bezold lamm,natasha mhatre,chris pull</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/cef55816f7.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_02.18.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_02.18.mp3" length="31524475" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sperm Competitions</title>
+      <itunes:title>Sperm Competitions</itunes:title>
+      <itunes:episode>44</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-44-sperm-competitions-and-ancient-horses</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode, we hear about self-esteem, a new genus of extinct horse, the future of biological engineering, tracking mosquitoes with mobile phones, and how a love rival causes salmon to increase their sperm speed......</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode, we hear about self-esteem, a new genus of extinct horse, the future of biological engineering, tracking mosquitoes with mobile phones, and how a love rival causes salmon to increase their sperm speed... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode, we hear about self-esteem, a new genus of extinct horse, the future of biological engineering, tracking mosquitoes with mobile phones, and how a love rival causes salmon to increase their sperm speed... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:06</itunes:duration>
+      <itunes:keywords>elife,mosquito identification,citizen science,salmon sperm competition,existential risk,brains self esteem,harringtonhippus,horse</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/dd96a52047.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_01.18.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_01.18.mp3" length="29048023" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Is science getting harder to understand?</title>
+      <itunes:title>Is science getting harder to understand?</itunes:title>
+      <itunes:episode>43</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-43-science-getting-harder-understand</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode, we hear about tool use in monkeys, sleep regulation, marsupial placentas, health campaigns and why science papers are so hard to read....</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode, we hear about tool use in monkeys, sleep regulation, marsupial placentas, health campaigns and why science papers are so hard to read. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode, we hear about tool use in monkeys, sleep regulation, marsupial placentas, health campaigns and why science papers are so hard to read. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:keywords>elife,science hard to read,body clock,circadian rhythm,bmal1,circumcision,HIV,wallaby,placentas,macaque tool use</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/d50cdba838.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_11.17.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_11.17.mp3" length="29323498" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>eLife at Five</title>
+      <itunes:title>eLife at Five</itunes:title>
+      <itunes:episode>42</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-42-elife-five</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this special episode we hear about photosynthesis, forensics, peer review, and the past, present and future of eLife....</itunes:subtitle>
+      <itunes:summary><![CDATA[In this special episode we hear about photosynthesis, forensics, peer review, and the past, present and future of eLife. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this special episode we hear about photosynthesis, forensics, peer review, and the past, present and future of eLife. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:59</itunes:duration>
+      <itunes:keywords>elife,brithday,journal,open access,peer review,5 years</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_10.17.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_10.17.mp3" length="27968006" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fish Recognise Fish Faces</title>
+      <itunes:title>Fish Recognise Fish Faces</itunes:title>
+      <itunes:episode>41</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-41-fish-recognise-faces</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this episode of the eLife Podcast, biomarkers for epilepsy, how fish can recognise faces, insect anti-anti aphrodisiacs, and why striving for novelty may hinder the progress of science......</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife Podcast, biomarkers for epilepsy, how fish can recognise faces, insect anti-anti aphrodisiacs, and why striving for novelty may hinder the progress of science... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife Podcast, biomarkers for epilepsy, how fish can recognise faces, insect anti-anti aphrodisiacs, and why striving for novelty may hinder the progress of science... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:keywords>elife podcast,medaka fish,fish face recognition,insects,anti-aphrodisiacs,epilepsy,seizures,novelty in science,mu-yun wang,colin brent,carola haas,barak cohen</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/7f28161a3f.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_17.08.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_17.08.mp3" length="24297931" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Glowing Squid, and Electric Anxiety</title>
+      <itunes:title>Glowing Squid, and Electric Anxiety</itunes:title>
+      <itunes:episode>40</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-40-glowing-squid-and-electric-anxiety</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Hear about the sea urchin immune system, symbiotic bacteria in squid, anxiety and a training course to promote collaboration between scientists....</itunes:subtitle>
+      <itunes:summary><![CDATA[Hear about the sea urchin immune system, symbiotic bacteria in squid, anxiety and a training course to promote collaboration between scientists. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[Hear about the sea urchin immune system, symbiotic bacteria in squid, anxiety and a training course to promote collaboration between scientists. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:23:57</itunes:duration>
+      <itunes:keywords>elife,squid,sea urchins,bacterial symbiosis,anxiety,intraparietal sulcus,science training</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/bf44a4d779.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_17.07.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_17.07.mp3" length="23140622" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Spotlight on tropical diseases</title>
+      <itunes:title>Spotlight on tropical diseases</itunes:title>
+      <itunes:episode>39</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-39-spotlight-tropical-diseases</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this special episode of the eLife Podcast, we discuss diseases common in tropical countries including tuberculosis, Zika, malaria and schistosomiasis....</itunes:subtitle>
+      <itunes:summary><![CDATA[In this special episode of the eLife Podcast, we discuss diseases common in tropical countries including tuberculosis, Zika, malaria and schistosomiasis. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this special episode of the eLife Podcast, we discuss diseases common in tropical countries including tuberculosis, Zika, malaria and schistosomiasis. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:49</itunes:duration>
+      <itunes:keywords>tb,tuberculosis,zika,malaria,bilharzia,schistosomiasis,neglected tropical diseases,elife podcast</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/e51710f743.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_05.17.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_05.17.mp3" length="27816739" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Boosting your Intellect</title>
+      <itunes:title>Boosting your Intellect</itunes:title>
+      <itunes:episode>38</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-38-boosting-your-intellect</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0100</pubDate>
+      <itunes:subtitle>This month in the eLife podcast, how yeast makes an important  drug from a plant root, why worms want to kill of males, and are we  gender neutral when we pick people to referee papers?...</itunes:subtitle>
+      <itunes:summary><![CDATA[This month in the eLife podcast, how yeast makes an important  drug from a plant root, why worms want to kill of males, and are we  gender neutral when we pick people to referee papers? Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[This month in the eLife podcast, how yeast makes an important  drug from a plant root, why worms want to kill of males, and are we  gender neutral when we pick people to referee papers? Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:keywords>elife,kill males,nematodes,boost,brain,memory,mind,mental</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_04.17.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_04.17.mp3" length="28706510" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How human handedness happens</title>
+      <itunes:title>How human handedness happens</itunes:title>
+      <itunes:episode>37</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-37-how-human-handedness-happens</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this episode we hear about helping people with paralysis to communicate, how exposing mice to nicotine can affect their sons, scaffold-building parasites, the origins of human handedness and plain-language summaries of research....</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode we hear about helping people with paralysis to communicate, how exposing mice to nicotine can affect their sons, scaffold-building parasites, the origins of human handedness and plain-language summaries of research. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode we hear about helping people with paralysis to communicate, how exposing mice to nicotine can affect their sons, scaffold-building parasites, the origins of human handedness and plain-language summaries of research. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:keywords>brain computer interface,paralysis,spinal cord injury,epigenetics,parental drug exposure,human handedness,plain language science summaries</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/236cd7ff58.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_03.17.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_03.17.mp3" length="29317995" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Epilepsy and Sushi</title>
+      <itunes:title>Epilepsy and Sushi</itunes:title>
+      <itunes:episode>36</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-36-epilepsy-and-sushi</link>
+      <pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode we hear about epilepsy, the sushi-belt model of transport in neurons, a mother in ancient Troy, the Amazon rainforest and bias in scientific reporting....</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode we hear about epilepsy, the sushi-belt model of transport in neurons, a mother in ancient Troy, the Amazon rainforest and bias in scientific reporting. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode we hear about epilepsy, the sushi-belt model of transport in neurons, a mother in ancient Troy, the Amazon rainforest and bias in scientific reporting. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:keywords>elife,sushi belt model,epilepsy,post-ictal drowsiness,amazon rainforest,troy,chorioamnionitis</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/55000ed394.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_02.17.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_02.17.mp3" length="27850570" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Footprints of the past</title>
+      <itunes:title>Footprints of the past</itunes:title>
+      <itunes:episode>35</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/footprints-past</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Unravelling the 6-million-year-long story of where we came from is a tricky business because palaeontologists have to rely on scarce, precious fossil remains that are hard to access and even harder to find in the first place. And there's a...</itunes:subtitle>
+      <itunes:summary><![CDATA[Unravelling the 6-million-year-long story of where we came from is a tricky business because palaeontologists have to rely on scarce, precious fossil remains that are hard to access and even harder to find in the first place. And there's a limit to what pieces of bone and teeth can reveal about our ancestors. But, occasionally, serendipity affords us a special glimpse into our past like it did in Laetoli, Tanzania, where a nearby erupting volcano captured the footsteps millions of years ago of a group of Australopithecines. In episode 34 of the eLife Podcast we heard from University of Perugia... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[Unravelling the 6-million-year-long story of where we came from is a tricky business because palaeontologists have to rely on scarce, precious fossil remains that are hard to access and even harder to find in the first place. And there's a limit to what pieces of bone and teeth can reveal about our ancestors. But, occasionally, serendipity affords us a special glimpse into our past like it did in Laetoli, Tanzania, where a nearby erupting volcano captured the footsteps millions of years ago of a group of Australopithecines. In episode 34 of the eLife Podcast we heard from University of Perugia... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:37</itunes:duration>
+      <itunes:keywords>palaeoanthropology,australopithecines,human evolution,laetoli tanzania,fossil footprints</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/f542bb8e34.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_Laetoli_Footprints_Special_Edition.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_Laetoli_Footprints_Special_Edition.mp3" length="9385105" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Man's First Footsteps</title>
+      <itunes:title>Man's First Footsteps</itunes:title>
+      <itunes:episode>34</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife-podcast/elife-episode-34-mans-first-footsteps</link>
+      <pubDate>Thu, 15 Dec 2016 10:31:49 +0000</pubDate>
+      <itunes:subtitle>Fossil footprints, taking research from bench to bedside, and the food coma effect...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about fossil footprints, taking medical research to the clinic, sleepy flies, team-working ants and diversity in science. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about fossil footprints, taking medical research to the clinic, sleepy flies, team-working ants and diversity in science. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:20</itunes:duration>
+      <itunes:keywords/>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-2Oy9xRzq5g.jpg"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_16.12.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_16.12.mp3" length="30082611" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Why don't Elephants get Cancer?</title>
+      <itunes:title>Why don't Elephants get Cancer?</itunes:title>
+      <itunes:episode>33</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-33-why-dont-elephants-get-cancer</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      <itunes:subtitle>First heartbeats, African sleeping sickness, elephant genetics and rubber hand illusions</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about the first heartbeat, African sleeping sickness, elephant genetics, the rubber hand illusion and women in science. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about the first heartbeat, African sleeping sickness, elephant genetics, the rubber hand illusion and women in science. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:keywords>elife, chris smith, trypanosomiasis, sleeping sickness, rubber hand illusion, elephants and cancer, first heartbeats</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_16.10.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_16.10.mp3" length="30076634" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Proteins from Fossils</title>
+      <itunes:title>Proteins from Fossils</itunes:title>
+      <itunes:episode>32</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-32-proteins-fossils</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Ancient proteins, mosquito nets, resourceful plants and cocktail party conversations...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about ancient proteins, aging mice, mosquito nets, resourceful plants and cocktail party conversations. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about ancient proteins, aging mice, mosquito nets, resourceful plants and cocktail party conversations. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:50</itunes:duration>
+      <itunes:keywords>elife podcast,chris smith,mosquito nets,cocktail party effect,listening in noisy environments,fossil proteins,rapamycin and ageing,drought resistant plants</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_16.09.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_16.09.mp3" length="27688983" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Who is tallest?</title>
+      <itunes:title>Who is tallest?</itunes:title>
+      <itunes:episode>31</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-31-who-tallest</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Human height, fish joints, colour vision, chimpanzees using tools and open science...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about human height, fish joints, colour vision, chimpanzees using tools and open science. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about human height, fish joints, colour vision, chimpanzees using tools and open science. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:15</itunes:duration>
+      <itunes:keywords>human height, origin of synovial joints, colour vision, chimpanzee tool use, open access, naked scientists, elife</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/7e8de0e379.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_16.08.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_16.08.mp3" length="29046932" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Seeing pain in the brain</title>
+      <itunes:title>Seeing pain in the brain</itunes:title>
+      <itunes:episode>30</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-30-seeing-pain-brain</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Drug production, early career researchers, honeybees, human migrations and pain.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about drug production, early career researchers, honeybees, human migrations and pain. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about drug production, early career researchers, honeybees, human migrations and pain. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:51</itunes:duration>
+      <itunes:keywords>elife,podcast,naked scientists,journal,biology,science</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_16.06.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_16.06.mp3" length="29628775" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Microbiome mind control, epilepsy and parastic worms</title>
+      <itunes:title>Microbiome mind control, epilepsy and parastic worms</itunes:title>
+      <itunes:episode>29</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-29-microbiome-mind-control-epilepsy-and-parastic-worms</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0100</pubDate>
+      <itunes:subtitle>In this episode of the eLife podcast: parasitic worms, dog tumours and epilepsy.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about parasitic worms, dog tumours, epilepsy, DNA sequencing classes and social behaviour in mice. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about parasitic worms, dog tumours, epilepsy, DNA sequencing classes and social behaviour in mice. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:29:47</itunes:duration>
+      <itunes:keywords>elife,mind,manipulation,worms,dog cancer</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_16.05.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_16.05.mp3" length="28606864" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>From antibiotic resistance to artificial fingertips</title>
+      <itunes:title>From antibiotic resistance to artificial fingertips</itunes:title>
+      <itunes:episode>28</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-28-antibiotic-resistance-artificial-fingertips</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode: antibiotic resistance, artificial fingertips and ancient DNA.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about aging, artificial fingertips, ancient DNA, antibiotic resistance and dengue fever. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about aging, artificial fingertips, ancient DNA, antibiotic resistance and dengue fever. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:keywords>elife,episode 28,antibiotic resistance,artificial fingertips</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_16.03.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_16.03.mp3" length="26228259" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Monkeys that gamble</title>
+      <itunes:title>Monkeys that gamble</itunes:title>
+      <itunes:episode>27</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-27</link>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      <itunes:subtitle>X-rays see inside fossil insects, monkeys that gamble, and moving meals impacts memory.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about midnight snacking, X-ray imaging of fossils, hummingbirds, monkeys gambling and axolotls regenerating... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about midnight snacking, X-ray imaging of fossils, hummingbirds, monkeys gambling and axolotls regenerating... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:27:51</itunes:duration>
+      <itunes:keywords>monkeys,decision,gambling,hummingbirds,flight,fossil,insect,anatomy,x-ray,xray,axolotls,stem cell,embyonic,development,dinner,meal,memory,learning,circadian</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_02.16.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_02.16.mp3" length="26742305" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mosquitoes home in on heat</title>
+      <itunes:title>Mosquitoes home in on heat</itunes:title>
+      <itunes:episode>26</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-26-mosquitoes-home-heat</link>
+      <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Heat-seeking mosquitoes, coral spawning, social insect evolution and regenerating newts...</itunes:subtitle>
+      <itunes:summary><![CDATA[Heat-seeking behaviour in mosquitoes, mass spawning in coral reefs, social organization in ants, fear in rats and tissue regeneration in newts go under the microscope in Episode 26 of the eLife Podcast... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[Heat-seeking behaviour in mosquitoes, mass spawning in coral reefs, social organization in ants, fear in rats and tissue regeneration in newts go under the microscope in Episode 26 of the eLife Podcast... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:41</itunes:duration>
+      <itunes:keywords>mosquito heat sensing, coral mass spawning, ant social behaviour, rat fear responses, newt tissue regeneration, elife,naked scientists, chris smith</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_12.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_12.15.mp3" length="27546434" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sleep and Reward Boost Recall</title>
+      <itunes:title>Sleep and Reward Boost Recall</itunes:title>
+      <itunes:episode>25</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-25-sleep-and-reward-boost-recall</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Deep-sea bacteria, cigarette smoke and the benefits of sleep.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about deep-sea bacteria, cigarette smoke and lung disease,  antibiotic resistance, unconscious perception, and the benefits of sleep. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about deep-sea bacteria, cigarette smoke and lung disease,  antibiotic resistance, unconscious perception, and the benefits of sleep. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:keywords>eflife,sleep,reward,podcast,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/7e8de0e379.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_11.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_11.15.mp3" length="27017322" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Escaping from Predators</title>
+      <itunes:title>Escaping from Predators</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-24-escaping-predators</link>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Parkinson's Disease, depression, chickenpox, bats and beetles.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about Parkinson's Disease, depression, chickenpox, bats, beetles and how small prey can escape larger predators. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about Parkinson's Disease, depression, chickenpox, bats, beetles and how small prey can escape larger predators. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:06</itunes:duration>
+      <itunes:keywords>elife,predators,prey,catch,shingles,chicken pox</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_09.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_09.15.mp3" length="29862832" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Homo naledi</title>
+      <itunes:title>Homo naledi</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/homo-naledi</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0100</pubDate>
+      <itunes:subtitle>A new species of early human ancestor - Homo naledi - has been uncovered in South Africa</itunes:subtitle>
+      <itunes:summary><![CDATA[Where we came from is, arguably, one of the most important questions facing mankind. This week the story has become even more intriguing: the well-preserved remains of 15 individuals from a new species of human ancestor, called Homo naledi, have been unveiled by scientists in South Africa. The name means "star" in the local language and it's a nod to the rising star cave system where the remains - part of a spectacular assemblage of more than 1500 specimens - were uncovered. The finds also harbour another secret: it's possible that these individuals might have been put where the scientists... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[Where we came from is, arguably, one of the most important questions facing mankind. This week the story has become even more intriguing: the well-preserved remains of 15 individuals from a new species of human ancestor, called Homo naledi, have been unveiled by scientists in South Africa. The name means "star" in the local language and it's a nod to the rising star cave system where the remains - part of a spectacular assemblage of more than 1500 specimens - were uncovered. The finds also harbour another secret: it's possible that these individuals might have been put where the scientists... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:28</itunes:duration>
+      <itunes:keywords>homo naledi,lee berger,human evolution,naked scientists, eLife, john hawks, charles musiba, chris smith, human ancestor, south africa</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/NS-Pod-IylpBvs28P.jpg"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/Homo-naledi-Special-Podcast.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/Homo-Naledi-Special-eLife-Podcast.mp3" length="11022067" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Magnetic Nerve Cells</title>
+      <itunes:title>Magnetic Nerve Cells</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-22-magnetic-nerve-cells</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Cancer, dengue fever, sperm DNA and neurons that are sensitive to magnetic fields.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about cancer, dengue fever, sperm DNA and neurons that are sensitive to magnetic fields. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about cancer, dengue fever, sperm DNA and neurons that are sensitive to magnetic fields. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:24:00</itunes:duration>
+      <itunes:keywords>Biology,elife,nerve,magnetic,Cancer,Neuroscience,Genetics,dengue,fever,neurons,magnetic fields,podcast,cancer,cancer,hear,we,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_07.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_07.15.mp3" length="23046292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tinnitus and Mouse Ultrasound</title>
+      <itunes:title>Tinnitus and Mouse Ultrasound</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-21-tinnitus-and-mouse-ultrasound</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Tinnitus, hyperacusis, salamanders, chemical harpoons, fly duets and mouse ultrasound...</itunes:subtitle>
+      <itunes:summary><![CDATA[Tinnitus, hyperacusis, salamanders, chemical harpoons and the role of ultrasound and song in the mating rituals of mice and flies go under the microcope in this edition of the eLife Podcast. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[Tinnitus, hyperacusis, salamanders, chemical harpoons and the role of ultrasound and song in the mating rituals of mice and flies go under the microcope in this edition of the eLife Podcast. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:05</itunes:duration>
+      <itunes:keywords>Physics,Insect,Neuroscience,Zoology,Biology,song,mating,podcast,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_06.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_06.15.mp3" length="26968464" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Do newborns feel pain?</title>
+      <itunes:title>Do newborns feel pain?</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-20-do-newborns-feel-pain</link>
+      <pubDate>Tue, 19 May 2015 14:00:00 +0100</pubDate>
+      <itunes:subtitle>Echolocation, bacteriophages, babies and pain, food on the brain, and fish sunscreen</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about echolocation, bacteriophages, babies and pain, a neural code for food abundance, and how zebrafish can make their own sunscreen. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about echolocation, bacteriophages, babies and pain, a neural code for food abundance, and how zebrafish can make their own sunscreen. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:25:50</itunes:duration>
+      <itunes:keywords>Physics,elife,newborns,pain,Viruses,feel,do,Evolution,Neuroscience,Medicine,Biology,bacteriophages,echolocation,zebrafish,sunscreen,code,babies,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_05.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_05.15.mp3" length="24808869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Herpes vaccine, and flies with brain damage</title>
+      <itunes:title>Herpes vaccine, and flies with brain damage</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-19-herpes-vaccine-and-flies-brain-damage</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Herpes, breweries, model organisms, social interactions in rats, and brain injured flies</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about herpes, breweries, model organisms, social interactions in rats and traumatic brain injuries in flies. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about herpes, breweries, model organisms, social interactions in rats and traumatic brain injuries in flies. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:29:10</itunes:duration>
+      <itunes:keywords>herpes simplex vaccine, traumatic brain injury flies, model organisms, bugs in breweries, rat social behaviour, naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_03.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_03.15.mp3" length="28009601" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>TB, and a Handshake</title>
+      <itunes:title>TB, and a Handshake</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-18-tb-and-handshake</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      <itunes:subtitle>TB, HIV, the smell of a handshake and what makes ants social...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about TB, HIV, social behaviour in ants, genetics in baboons and a surprising twist to the handshake. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about TB, HIV, social behaviour in ants, genetics in baboons and a surprising twist to the handshake. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:26:21</itunes:duration>
+      <itunes:keywords>naked scientists,elife,TB, HIV, ant social behaviour, baboon genetics, handshake odours, chris smith</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_02.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_02.15.mp3" length="25312049" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Stress, fertility and remote-controlled sperm</title>
+      <itunes:title>Stress, fertility and remote-controlled sperm</itunes:title>
+      <itunes:episode>17</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-17-stress-fertility-and-remote-controlled-sperm</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Remote-controlled sperm, hibernation, body clocks, and why stress is linked to infertility</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about controlling sperm by optogenetics, hibernation, body clocks, enzyme structure, and a way to overcome stress-induced infertility. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about controlling sperm by optogenetics, hibernation, body clocks, enzyme structure, and a way to overcome stress-induced infertility. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:26:28</itunes:duration>
+      <itunes:keywords>elife,nak,stress,pregnancy,remote,controlled,sperm</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_01.15.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_01.15.mp3" length="25413589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Synthetic cells, antivirals and sex pheromones</title>
+      <itunes:title>Synthetic cells, antivirals and sex pheromones</itunes:title>
+      <itunes:episode>16</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-16-synthetic-cells-antivirals-and-sex-pheromones</link>
+      <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode of the eLife podcast we hear about reproducibility and drugresistance.</itunes:subtitle>
+      <itunes:summary><![CDATA[n this episode of the eLife podcast we hear about reproducibility, drug resistance, cells without walls, gene transfer, interspecies signalling, and stem cells. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[n this episode of the eLife podcast we hear about reproducibility, drug resistance, cells without walls, gene transfer, interspecies signalling, and stem cells. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:keywords>ELIFE,gene,transfer,reproducibility,result,science,research,ecoli,bacteria,resistance</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_12.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_12.14.mp3" length="32970709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Flu, Cannabis and HIV</title>
+      <itunes:title>Flu, Cannabis and HIV</itunes:title>
+      <itunes:episode>15</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-15-flu-cannabis-and-hiv</link>
+      <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Influenza, overeating, cannabis and the brain, HIV cure research, and sea squirts...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about influenza pandemics, eating too much, cannabis and the brain, HIV cure research, and the evolution of sea squirts... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about influenza pandemics, eating too much, cannabis and the brain, HIV cure research, and the evolution of sea squirts... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:06</itunes:duration>
+      <itunes:keywords>cannabis,elife,naked scientist,HIV,sea squirts,genetic regulation,DNA,flu,swine,pandemics</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_10.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_10.14.mp3" length="28909817" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cost of corruption, and Ebola</title>
+      <itunes:title>Cost of corruption, and Ebola</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-14-cost-corruption-and-ebola</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0100</pubDate>
+      <itunes:subtitle>The spread of Ebola, research misconduct, aging in yeast, fly grooming and symbiosis...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about the spread of the Ebola virus, the financial costs of research misconduct, aging in yeast, grooming in flies, and symbiosis between bacteria and fungal cells. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about the spread of the Ebola virus, the financial costs of research misconduct, aging in yeast, grooming in flies, and symbiosis between bacteria and fungal cells. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:40</itunes:duration>
+      <itunes:keywords>ebola,virus,yeast,symbiosis,bacteria,fungi,fly,grooming,research misconduct</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_09.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_09.14.mp3" length="30401514" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Making blind mice see and mosquitoes resistant to malaria</title>
+      <itunes:title>Making blind mice see and mosquitoes resistant to malaria</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-13-making-blind-mice-see-and-mosquitoes-resistant-malaria</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Photos for facial diagonoses, making blind mice see and why hybrids aren't successful...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about using photographs to diagnose rare genetic disorders, an unexpected benefit of exercise, hybridizing fish species, the mysteries of the MECP2 gene, and the risks and benefits of using gene drives to alter wild populations. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about using photographs to diagnose rare genetic disorders, an unexpected benefit of exercise, hybridizing fish species, the mysteries of the MECP2 gene, and the risks and benefits of using gene drives to alter wild populations. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:keywords>naked scientists, sight, MECP2, hybrid animals, cranio-facial defects, malaria</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_07.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_07.14.mp3" length="29948028" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Why we don't (often) bite our tongues</title>
+      <itunes:title>Why we don't (often) bite our tongues</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-12-why-we-dont-often-bite-our-tongues</link>
+      <pubDate>Tue, 10 Jun 2014 23:47:00 +0100</pubDate>
+      <itunes:subtitle>The neuroscience of chewing, sleeping sickness, the proteins that move molecules around cells, skin cancer, and the open access movement...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast, the neuroscience of chewing, African sleeping sickness, skin cancer, and an ancient protein complex called TSET. eLife editor-in-chief Randy Schekman also shares his thoughts on scientific publishing... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast, the neuroscience of chewing, African sleeping sickness, skin cancer, and an ancient protein complex called TSET. eLife editor-in-chief Randy Schekman also shares his thoughts on scientific publishing... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:keywords>naked scientists, mastication, trypanosomes, skin cancer, randy schekman</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/e07b09eafa.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_05.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_05.14.mp3" length="28350588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pain, gene therapy, and regenerating worms</title>
+      <itunes:title>Pain, gene therapy, and regenerating worms</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-11-pain-gene-therapy-and-regenerating-worms</link>
+      <pubDate>Wed, 30 Apr 2014 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Pain, gene therapy, insulin production, and aging in worms...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about neuropathic pain, gene therapy, insulin production, ageing in worms, and how flatworms grow new body parts. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about neuropathic pain, gene therapy, insulin production, ageing in worms, and how flatworms grow new body parts. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:keywords>elife,gene therapy,worms,worms,therapy,pain,gene,Zoology,Neuroscience,Genetics,Biology,neuropathic,body parts,insulin,ageing,grow,hear,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_04.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_podcast_30.04.14.mp3" length="29316074" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Radiation, Anti-aphrodisiacs and Glowing Squid</title>
+      <itunes:title>Radiation, Anti-aphrodisiacs and Glowing Squid</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-10-radiation-anti-aphrodisiacs-and-glowing-squid</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0100</pubDate>
+      <itunes:subtitle>The mating habits of flies, radiation resistance in bacteria, how insects learned to smell, and the Hawaiian bobtail squid.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we hear about the mating habits of flies, radiation resistance in bacteria, how insects learned to smell, and the Hawaiian bobtail squid... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we hear about the mating habits of flies, radiation resistance in bacteria, how insects learned to smell, and the Hawaiian bobtail squid... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:22:27</itunes:duration>
+      <itunes:keywords>radiation resistance, anti-aphrodisiacs, triacylglycerides - tags, vibrio squid lps, insect olfaction evolution, naked scientists, chris smith</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_03.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_03.14.mp3" length="21553736" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Redeye, Spies and Bacteria</title>
+      <itunes:title>Redeye, Spies and Bacteria</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-9-redeye-spies-and-bacteria</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode of eLife, we learn more about sleep, super Spy chaperones, swimming bacteria, orphan genes and the neuroscience of birdsong</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we learn more about sleep, super Spy chaperones, swimming bacteria, orphan genes and the neuroscience of birdsong. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we learn more about sleep, super Spy chaperones, swimming bacteria, orphan genes and the neuroscience of birdsong. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:08</itunes:duration>
+      <itunes:keywords>redeye, chaperones, flagella, orphan genes, song learning in birds, chris smith, elife, naked scientists,</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_02.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_02.14.mp3" length="28936567" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rats won't rat on rats</title>
+      <itunes:title>Rats won't rat on rats</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-8-rats-wont-rat-rats</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:subtitle>In this episode of the eLife podcast we discuss ants, rats, sharks and rays, and the pathogen that causes corn smut in maize...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we discuss ants, rats, sharks and rays, and the pathogen that causes corn smut in maize. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we discuss ants, rats, sharks and rays, and the pathogen that causes corn smut in maize. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:keywords>naked scientists, endangered sharks, rays, marine conservation, rat recognition and self identity, ants, HIV nef, corn smut</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_01.14.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_01.14.mp3" length="27013954" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sedatives, Maths and Evolution</title>
+      <itunes:title>Sedatives, Maths and Evolution</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-7-sedatives-maths-and-evolution</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:subtitle>The growing problem of drug resistance, severe brain damage, sugar versus sweetener, public dilemmas, and the evolution of translation...</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife Podcast, the growing problem of drug resistance, severe brain damage, sugar versus sweetener, public dilemmas, and the evolution of translation... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife Podcast, the growing problem of drug resistance, severe brain damage, sugar versus sweetener, public dilemmas, and the evolution of translation... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:keywords>antibiotic resistance, zolpidem paradoxical brain activity, severe brain injury, mathematical modelling microbes, yeast evolution, naked scientists, eLife</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/4b2621040d.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_12.13.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_12.13.mp3" length="27871189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bacteria and Rheumatoid Arthritis</title>
+      <itunes:title>Bacteria and Rheumatoid Arthritis</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-6-bacteria-and-rheumatoid-arthritis</link>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Protein crystallography with electrons, a receptor for carbon dioxide, bacteria and rheumatoid arthritis, plastic brains, and mouse whiskers</itunes:subtitle>
+      <itunes:summary><![CDATA[In this episode of the eLife podcast we discuss doing protein crystallography with electrons, the discovery of a receptor for carbon dioxide, new insights into arthritis, how the brain responds to a missing hand, and the best shape for whiskers. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this episode of the eLife podcast we discuss doing protein crystallography with electrons, the discovery of a receptor for carbon dioxide, new insights into arthritis, how the brain responds to a missing hand, and the best shape for whiskers. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:28:42</itunes:duration>
+      <itunes:keywords>carbon dioxide,elife,whisker,crystallography,recept,electron,carbon,protein,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_13.11.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_11.13.mp3" length="27563989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Human Sperm, Gut Bugs and Decomposition</title>
+      <itunes:title>Human Sperm, Gut Bugs and Decomposition</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-5-human-sperm-gut-bugs-and-decomposition</link>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
+      <itunes:subtitle>Chimpanzees use conceptual metaphors, the hyperactivation of sperm, using bacteria to estimate the time of death and a new type of gut bug.</itunes:subtitle>
+      <itunes:summary><![CDATA[In this issue of the eLife podcast we discuss how chimpanzees use conceptual metaphors, the hyperactivation of spermatozoa, the use of bacteria to estimate the time of death, stem cells and smoking, and a new type of bacteria. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this issue of the eLife podcast we discuss how chimpanzees use conceptual metaphors, the hyperactivation of spermatozoa, the use of bacteria to estimate the time of death, stem cells and smoking, and a new type of bacteria. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:30:56</itunes:duration>
+      <itunes:keywords>eLife, chimp conceptual metaphors, sperm potassium channels, bacterial forensics, intestinal bacteria.</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/7b74afc15c.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_13.10.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_13.10.mp3" length="29701850" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Undead Cells</title>
+      <itunes:title>Undead Cells</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-4-undead-cells</link>
+      <pubDate>Mon, 07 Oct 2013 00:00:00 +0100</pubDate>
+      <itunes:subtitle>The regeneration gene, evolution of photosynthesis, mice at the disco, cells that think they're dead and how much RNA does one gene make?</itunes:subtitle>
+      <itunes:summary><![CDATA[In this issue of the eLife podcast we discuss how flatworms can grow new heads and tails, how photosynthesis has evolved over time, social interactions between mice, the properties of "undead" cells, and interactions between steroids and genes. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[In this issue of the eLife podcast we discuss how flatworms can grow new heads and tails, how photosynthesis has evolved over time, social interactions between mice, the properties of "undead" cells, and interactions between steroids and genes. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:keywords>naked scientists, eLife, regeneration, folistatin, planarian, photosynthesis evolution, mouse sociality measurements, undead cells, transcription</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_13.09.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_13.09.mp3" length="28525713" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Now hear this!</title>
+      <itunes:title>Now hear this!</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-3-now-hear</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0100</pubDate>
+      <itunes:subtitle>The cocktail party effect, genetic dead relics in inflamation,  genetic responses to flu jabs, and stem cells in schistosomes</itunes:subtitle>
+      <itunes:summary><![CDATA[The cocktail party effect and how the brain decides which sounds to attend to, genes dismissed as dead relics turn out to play significant roles in inflammation, iPS cells reproduce degenerative retinal disease, the genetic responses to flu jabs, and the discovery of stem cells in schistosomes... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[The cocktail party effect and how the brain decides which sounds to attend to, genes dismissed as dead relics turn out to play significant roles in inflammation, iPS cells reproduce degenerative retinal disease, the genetic responses to flu jabs, and the discovery of stem cells in schistosomes... Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:34:18</itunes:duration>
+      <itunes:keywords>inflammation,flu,stem cells, pesudogenes, genes, genetic,sound,hearing, frequency discrimination, cocktail party effect, ips cells, retinitis pigmentosa</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_13.08.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_13.08.mp3" length="16469262" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Plants keep Thyme, cancer drug resistance and clear corneas</title>
+      <itunes:title>Plants keep Thyme, cancer drug resistance and clear corneas</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-2-plants-keep-thyme-cancer-drug-resistance-and-clear-corneas</link>
+      <pubDate>Tue, 16 Jul 2013 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Plants do molecular mathematics to "thyme" starch consumption, how cancers evolve resistance to chemotherapy and T cell receptors in action</itunes:subtitle>
+      <itunes:summary><![CDATA[How plants do molecular mathematics to thyme their starch consumption, how cancers evolve resistance to chemotherapy and how to combat it, how the retina and cornea keep themselves clear of blood vessels, watching T cell receptors in real time and do governments listen to scientists? Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[How plants do molecular mathematics to thyme their starch consumption, how cancers evolve resistance to chemotherapy and how to combat it, how the retina and cornea keep themselves clear of blood vessels, watching T cell receptors in real time and do governments listen to scientists? Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:33:48</itunes:duration>
+      <itunes:keywords>cornea,mathematics,governments,chemotherapy,retina,resistance,receptor,vessel,plants,cancer,drug,blood,cell,scientists,scientist,time,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_13.07.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_13.07.mp3" length="16229772" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Multicellular life, potato blight and Hepatitis B</title>
+      <itunes:title>Multicellular life, potato blight and Hepatitis B</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <link>https://www.thenakedscientists.com/podcasts/elife/elife-episode-1-multicellular-life-potato-blight-and-hepatitis-b</link>
+      <pubDate>Sun, 16 Jun 2013 00:00:00 +0100</pubDate>
+      <itunes:subtitle>Multicellular life, potato blight and Hepatitis B</itunes:subtitle>
+      <itunes:summary><![CDATA[How multicellular life began, museum specimens surrender the identity of the bug behind the Irish potato famine, the Hepatitis B and D virus receptor discovered, why fog clouds driver judgement and where nucleosomes came from. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></itunes:summary>
+      <description><![CDATA[How multicellular life began, museum specimens surrender the identity of the bug behind the Irish potato famine, the Hepatitis B and D virus receptor discovered, why fog clouds driver judgement and where nucleosomes came from. Get the references and the transcripts for this programme  <a href="https://www.thenakedscientists.com/elife">from the Naked Scientists website</a>]]></description>
+      <itunes:author>Dr Chris Smith</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:40:58</itunes:duration>
+      <itunes:keywords>famine,hepatitis,potato,recept,receptor,cloud,driving,virus,multicellular life,naked scientists</itunes:keywords>
+      <itunes:image href="https://www.thenakedscientists.com/sites/default/files/media/images/feed_images/6c68e51eec.png"/>
+      <guid isPermaLink="false">http://www.thenakedscientists.com/guid/eLife_Podcast_13.06.mp3</guid>
+      <enclosure url="https://downloads.nakeddiscovery.com/downloads/active/eLife_Podcast_13.06.mp3" length="19669576" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
