@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.abc.net.au/radionational/programs/latenightlive/feed/2890646/podcast.xml" rel="self" type="application/xml"/>
+        <title>Late Night Live - Full program podcast</title>
+        <itunes:subtitle>From razor-sharp analysis of current events to the hottest debates in politics, science, philosophy and culture, Late Night Live puts you firmly in the big picture.</itunes:subtitle>
+        <description>
+            <![CDATA[
+        From razor-sharp analysis of current events to the hottest debates in politics, science, philosophy and culture, Late Night Live puts you firmly in the big picture.
+            ]]>
+        </description>
+        <link>https://www.abc.net.au/radionational/programs/latenightlive/</link>
+        <copyright>Copyright 2020, Australian Broadcasting Corporation. All Rights Reserved.</copyright>
+        
+
+                <language>en-AU</language>
+        <image>
+                <title>Late Night Live podcast</title>
+                <url>https://www.abc.net.au/cm/rimage/10928716-1x1-thumbnail.jpg?v=3</url>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/</link>
+        </image>
+        <itunes:image href="https://www.abc.net.au/cm/rimage/10928716-1x1-large.jpg?v=3"/>
+        <itunes:author>ABC Radio</itunes:author>
+        <itunes:owner>
+            <itunes:name>ABC Radio</itunes:name>
+            <itunes:email>info_rn@abc.net.au</itunes:email>
+        </itunes:owner>
+        <itunes:summary>From razor-sharp analysis of current events to the hottest debates in politics, science, philosophy and culture, Late Night Live puts you firmly in the big picture.</itunes:summary>
+<programarid>ppyXD33JD6</programarid>
+<itunes:category text="Society &amp; Culture" />
+<itunes:category text="News">
+<itunes:category text="Politics" />
+</itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+      <lastBuildDate>Thu, 02 Jan 2020 22:05:00 +1100</lastBuildDate>
+        <item>
+            <title>Jung Chang and Kate McClymont</title>
+                <itunes:subtitle>Jung Chang on the Soong sisters and Kate McClymont on the murder of Michael McGurk</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Jung Chang on the Soong sisters and Kate McClymont on the murder of Michael McGurk
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/2-january-2020/11780494</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2020/01/lnl_20200102.mp3" type="audio/mp3" length="51954816" />
+				      <pubDate>Thu, 02 Jan 2020 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/2-january-2020/11780494</guid>
+                <itunes:duration>54:07</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2020/01/lnl_20200102.mp3" type="audio/mp3" fileSize="51954816" medium="audio" expression="full" duration="54:07" />
+                        <media:group>
+                                <media:description>Ei-ling Soong, May-ling Soong and Ching-ling Soong in Chunking, 1940.</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780522-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780522-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780522-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780522-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780522-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11780522-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Lord Tughendat&#39;s library and the Future Library</title>
+                <itunes:subtitle>Christopher Tughendat has written a history of Britain through its literature and we find out about the wonderful and hopeful future library.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Christopher Tughendat has written a history of Britain through its literature and we find out about the wonderful and hopeful future library.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/1-january-2020/11780330</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2020/01/lnl_20200101.mp3" type="audio/mp3" length="51952512" />
+				      <pubDate>Wed, 01 Jan 2020 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/1-january-2020/11780330</guid>
+                <itunes:duration>54:07</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2020/01/lnl_20200101.mp3" type="audio/mp3" fileSize="51952512" medium="audio" expression="full" duration="54:07" />
+                        <media:group>
+                                <media:description>Margaret Atwood, the first author to write a book for the Future Library, is pictured here with Scottish artist Katie Paterson deep in the Nordmarka forest near Oslo.</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780432-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780432-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780432-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780432-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780432-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11780432-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Happy Birthday Phillip</title>
+                <itunes:subtitle>Richard Fidler asks Phillip Adams the questions in his 80th birthday special.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Richard Fidler asks Phillip Adams the questions in his 80th birthday special.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/11-july-2019/11780004</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191231.mp3" type="audio/mp3" length="51954816" />
+				      <pubDate>Tue, 31 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/11-july-2019/11780004</guid>
+                <itunes:duration>54:07</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191231.mp3" type="audio/mp3" fileSize="51954816" medium="audio" expression="full" duration="54:07" />
+                        <media:group>
+                                <media:description>Phillip Adams and Richard Fidler</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780020-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780020-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780020-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780020-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11780020-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11780020-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>The adventures of Di Morrissey</title>
+                <itunes:subtitle>Di Morrissey has come full circle coming back to her birth place and journalistic roots.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Di Morrissey has come full circle coming back to her birth place and journalistic roots.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-18th-november-2019/11779906</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191230.mp3" type="audio/mp3" length="51953664" />
+				      <pubDate>Mon, 30 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-18th-november-2019/11779906</guid>
+                <itunes:duration>54:07</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191230.mp3" type="audio/mp3" fileSize="51953664" medium="audio" expression="full" duration="54:07" />
+                        <media:group>
+                                <media:description>Phillip Adams and Di Morrissey</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779972-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779972-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779972-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779972-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779972-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11779972-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Politicised convicts; Decoding Australia&#39;s first dictionary</title>
+                <itunes:subtitle>Australia&#39;s convicts were highly politicised - both those who were sent as political prisoners, and the ordinary convicts who were soon organising and agitating against unfair work requirements.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Australia's convicts were highly politicised - both those who were sent as political prisoners, and the ordinary convicts who were soon organising and agitating against unfair work requirements.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/26-december2019/11779794</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191226.mp3" type="audio/mp3" length="51712896" />
+				      <pubDate>Thu, 26 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/26-december2019/11779794</guid>
+                <itunes:duration>53:52</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191226.mp3" type="audio/mp3" fileSize="51712896" medium="audio" expression="full" duration="53:52" />
+                        <media:group>
+                                <media:description>William Cuffay, the son of a West Indian slave and an English woman, campaigned in England for an eight hour day. He was sentenced to 21 years in Van Diemen&#39;s Land, for &#39;conspiring to levy a war&#39; against Queen Victoria.</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11506908-16x9-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11506908-4x3-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11506908-3x2-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11506908-3x4-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11506908-1x1-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11506908-4x3-thumbnail.jpg?v=3"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Tim Costello: Faith and fear</title>
+                <itunes:subtitle>Tim Costello chats about faith, fear and politics.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Tim Costello chats about faith, fear and politics.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/tim-costello-hour/11779712</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191225.mp3" type="audio/mp3" length="51707520" />
+				      <pubDate>Wed, 25 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/tim-costello-hour/11779712</guid>
+                <itunes:duration>53:51</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191225.mp3" type="audio/mp3" fileSize="51707520" medium="audio" expression="full" duration="53:51" />
+                        <media:group>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11374890-16x9-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11374890-4x3-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11374890-3x2-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11374890-3x4-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11374890-1x1-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11374890-4x3-thumbnail.jpg?v=3"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Virginia Hall: WW2 Master spy; Richard Sorge: master spy</title>
+                <itunes:subtitle>Virginia Hall managed to convince both UK and US spy agencies to send her into France during WW2, despite the fact she was a woman and an amputee. The reports from Russian spy Richard Sorge back to Moscow were critical in determining  the outcome of WW2.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Virginia Hall managed to convince both UK and US spy agencies to send her into France during WW2, despite the fact she was a woman and an amputee. The reports from Russian spy Richard Sorge back to Moscow were critical in determining  the outcome of WW2.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/24-december2019/11779126</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191224.mp3" type="audio/mp3" length="51712896" />
+				      <pubDate>Tue, 24 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/24-december2019/11779126</guid>
+                <itunes:duration>53:52</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191224.mp3" type="audio/mp3" fileSize="51712896" medium="audio" expression="full" duration="53:52" />
+                        <media:group>
+                                <media:description>Virginia Hall worked with the resistance in France during WW2.</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11084992-16x9-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11084992-4x3-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11084992-3x2-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11084992-3x4-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11084992-1x1-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11084992-4x3-thumbnail.jpg?v=4"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Louise Adler: Life and learning</title>
+                <itunes:subtitle>Louise Adler shares her thought on life with Phillip Adams</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Louise Adler shares her thought on life with Phillip Adams
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/22-august-2019/11779032</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191223.mp3" type="audio/mp3" length="51975936" />
+				      <pubDate>Mon, 23 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/22-august-2019/11779032</guid>
+                <itunes:duration>54:08</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191223.mp3" type="audio/mp3" fileSize="51975936" medium="audio" expression="full" duration="54:08" />
+                        <media:group>
+                                <media:description>Phillip Adams and Louise Adler</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11435494-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11435494-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11435494-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11435494-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11435494-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11435494-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Marcia Langton</title>
+                <itunes:subtitle>Marcia Langton on life&#39;s detours.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Marcia Langton on life's detours.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/25-july-2019/11779700</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191219.mp3" type="audio/mp3" length="51947904" />
+				      <pubDate>Thu, 19 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/25-july-2019/11779700</guid>
+                <itunes:duration>54:06</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191219.mp3" type="audio/mp3" fileSize="51947904" medium="audio" expression="full" duration="54:06" />
+                        <media:group>
+                                <media:description>Phillip Adams and Marcia Langton</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779778-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779778-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779778-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779778-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11779778-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11779778-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Dorian Lynskey on 1984 and Tony Rinaudo on forest making</title>
+                <itunes:subtitle>Dorian Lynskey on the 70th anniversary of 1984 and Tony Rinaudo on how to make forests.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Dorian Lynskey on the 70th anniversary of 1984 and Tony Rinaudo on how to make forests.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/18-december-2019/11773584</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191218.mp3" type="audio/mp3" length="51941760" />
+				      <pubDate>Wed, 18 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/18-december-2019/11773584</guid>
+                <itunes:duration>54:06</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191218.mp3" type="audio/mp3" fileSize="51941760" medium="audio" expression="full" duration="54:06" />
+                        <media:group>
+                                <media:description>A mural of George Orwell in the English town of Southwold referencing a quote from the writer&#39;s prescient novel &#39;1984&#39; and his wartime work at the BBC.</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773582-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773582-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773582-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773582-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773582-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11773582-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Robyn Archer and Sisonke Msimang on Winne Mandela</title>
+                <itunes:subtitle>Robyn Archer looks back on her life of cabaret and Sisonke Msimang has an honest look at the life of Winnie Mandela.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Robyn Archer looks back on her life of cabaret and Sisonke Msimang has an honest look at the life of Winnie Mandela.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/new-document/11773442</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191217.mp3" type="audio/mp3" length="51954432" />
+				      <pubDate>Tue, 17 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/new-document/11773442</guid>
+                <itunes:duration>54:07</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191217.mp3" type="audio/mp3" fileSize="51954432" medium="audio" expression="full" duration="54:07" />
+                        <media:group>
+                                <media:description>Robyn Archer, performer, festival director and mentor</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773406-16x9-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773406-4x3-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773406-3x2-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773406-3x4-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11773406-1x1-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11773406-4x3-thumbnail.jpg?v=3"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Elena Kats-Chernin</title>
+                <itunes:subtitle>Where does Elena Kats-Chernin&#39;s music come from?</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Where does Elena Kats-Chernin's music come from?
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/23-may-2019/11773368</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191216.mp3" type="audio/mp3" length="51972864" />
+				      <pubDate>Mon, 16 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/23-may-2019/11773368</guid>
+                <itunes:duration>54:08</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191216.mp3" type="audio/mp3" fileSize="51972864" medium="audio" expression="full" duration="54:08" />
+                        <media:group>
+                                <media:description>Phillip Adams and Elena Kats-Chernin</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11143660-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11143660-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11143660-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11143660-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11143660-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11143660-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>What do fossils, babies and Einstein tell us about the way our brains have evolved?; How plants think.</title>
+                <itunes:subtitle>Renowned paleo-anthropologist Dean Falk on how the evolution of our brains led to the emergence of language, music, analytical thinking, and warfare in humans. Plant biologist Professor Ottoline Leyser explains how plants manage to survive and thrive without a brain.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Renowned paleo-anthropologist Dean Falk on how the evolution of our brains led to the emergence of language, music, analytical thinking, and warfare in humans. Plant biologist Professor Ottoline Leyser explains how plants manage to survive and thrive without a brain.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/12-december2019/11773648</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191212.mp3" type="audio/mp3" length="51475968" />
+				      <pubDate>Thu, 12 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/12-december2019/11773648</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191212.mp3" type="audio/mp3" fileSize="51475968" medium="audio" expression="full" duration="53:37" />
+                        <media:group>
+                                <media:description>How do plants make life and death decisions</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11207584-16x9-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11207584-4x3-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11207584-3x2-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11207584-3x4-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11207584-1x1-large.jpg?v=2" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11207584-4x3-thumbnail.jpg?v=2"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Dr Lynn Arnold AO joins Phillip for a chat</title>
+                <itunes:subtitle>The Honourable Reverend Dr Lynn Arnold AO has one of those names that tells you immediately – he’s done a few things. He’s been busy. You don’t get that many prefixes and suffixes without burning the midnight oil.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    The Honourable Reverend Dr Lynn Arnold AO has one of those names that tells you immediately – he’s done a few things. He’s been busy. You don’t get that many prefixes and suffixes without burning the midnight oil.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/18th-of-april-2019/11773434</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191211.mp3" type="audio/mp3" length="51712128" />
+				      <pubDate>Wed, 11 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/18th-of-april-2019/11773434</guid>
+                <itunes:duration>53:51</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191211.mp3" type="audio/mp3" fileSize="51712128" medium="audio" expression="full" duration="53:51" />
+        </item>
+        <item>
+            <title>Mary Anning; How the Earth shapes our destinies</title>
+                <itunes:subtitle>How did a 19th-century English working-class woman with no formal education end up becoming one of the most influential fossilists of all time?  We explore the impact of ice, wind and plate tectonics on who we are today.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    How did a 19th-century English working-class woman with no formal education end up becoming one of the most influential fossilists of all time?  We explore the impact of ice, wind and plate tectonics on who we are today.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/10-december2019/11773346</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191210.mp3" type="audio/mp3" length="51716736" />
+				      <pubDate>Tue, 10 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/10-december2019/11773346</guid>
+                <itunes:duration>53:52</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191210.mp3" type="audio/mp3" fileSize="51716736" medium="audio" expression="full" duration="53:52" />
+        </item>
+        <item>
+            <title>Eva Cox </title>
+                <itunes:subtitle>Eva Cox on life, her 1995 Boyer lectures and what&#39;s next.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Eva Cox on life, her 1995 Boyer lectures and what's next.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/22-april-2019/11773268</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191209.mp3" type="audio/mp3" length="51710208" />
+				      <pubDate>Mon, 09 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/22-april-2019/11773268</guid>
+                <itunes:duration>53:51</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191209.mp3" type="audio/mp3" fileSize="51710208" medium="audio" expression="full" duration="53:51" />
+                        <media:group>
+                                <media:description>Eva Cox and Phillip Adams in the Late Night Live studio.</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/10994652-16x9-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/10994652-4x3-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/10994652-3x2-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/10994652-3x4-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/10994652-1x1-large.jpg?v=4" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/10994652-4x3-thumbnail.jpg?v=4"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Was 2019 a good year for comedy?</title>
+                <itunes:subtitle>A panel of eminent satirists canvasses the comedy fodder offered up in the past year.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    A panel of eminent satirists canvasses the comedy fodder offered up in the past year.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/5-december-2019/11769502</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191205.mp3" type="audio/mp3" length="51230976" />
+				      <pubDate>Thu, 05 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/5-december-2019/11769502</guid>
+                <itunes:duration>53:21</itunes:duration>
+                <itunes:keywords>comedy satire satirists</itunes:keywords>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191205.mp3" type="audio/mp3" fileSize="51230976" medium="audio" expression="full" duration="53:21" />
+                        <media:group>
+                                <media:description>Standing, from left: Phillip Adams, Alice Fraser, Dan Ilic, Cathy Wilcox. Token appearance by Andy Matthews</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11769608-16x9-large.jpg?v=5" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11769608-4x3-large.jpg?v=5" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11769608-3x2-large.jpg?v=5" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11769608-3x4-large.jpg?v=5" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11769608-1x1-large.jpg?v=5" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11769608-4x3-thumbnail.jpg?v=5"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Trump&#39;s apocalypse and Ireland in 1922</title>
+                <itunes:subtitle>Are the evangelical supporters of Trump hoping he will bring on the apocalypse and with Brexit remaining an ongoing issue, what can we learn from the Irish Civil War of 1922.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Are the evangelical supporters of Trump hoping he will bring on the apocalypse and with Brexit remaining an ongoing issue, what can we learn from the Irish Civil War of 1922.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/4-december-2019/11765164</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191204.mp3" type="audio/mp3" length="51468288" />
+				      <pubDate>Wed, 04 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/4-december-2019/11765164</guid>
+                <itunes:duration>53:36</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191204.mp3" type="audio/mp3" fileSize="51468288" medium="audio" expression="full" duration="53:36" />
+                        <media:group>
+                                <media:description>General Michael Collins leaves a Requiem service held at Portobello Barracks, Dublin. August 1922. Not long before his assassination by Anti-Treaty IRA.</media:description>
+                            <media:content url="https://www.abc.net.au/cm/rimage/11765012-16x9-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11765012-4x3-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11765012-3x2-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11765012-3x4-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:content url="https://www.abc.net.au/cm/rimage/11765012-1x1-large.jpg?v=3" medium="image" type="image/jpeg" />
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/11765012-4x3-thumbnail.jpg?v=3"/>
+                        </media:group>
+        </item>
+        <item>
+            <title>Bruce Shapiro and Australia in 1956</title>
+                <itunes:subtitle>Bruce Shapiro wraps up the year and Nick Richardson explains the significance of 1956 in Australia&#39;s history.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce Shapiro wraps up the year and Nick Richardson explains the significance of 1956 in Australia's history.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/3-december-2019/11762652</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191203.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Tue, 03 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/3-december-2019/11762652</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191203.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Laura Tingle; Wikileaks; Canberra&#39;s view on Julian Assange</title>
+                <itunes:subtitle>A week of machismo and masochism as the Prime Minister fights to save the political career of his Energy Minister, Angus Taylor. Kristinn Hrafnsson explains why journalists should care about what happens to Julian Assange.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    A week of machismo and masochism as the Prime Minister fights to save the political career of his Energy Minister, Angus Taylor. Kristinn Hrafnsson explains why journalists should care about what happens to Julian Assange.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-2nd-december2019/11757098</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191202.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Mon, 02 Dec 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-2nd-december2019/11757098</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/12/lnl_20191202.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Daniel McCarthy&#39;s Washington update and Vale Clive James</title>
+                <itunes:subtitle>Daniel McCarthy explores what effects the impeachment proceedings are having on voter sentiment and we commemorate Clive James. In an interview with Phillip in 2006, the late raconteur reveals his love of the tango, Japanese culture and Peter Sellers.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Daniel McCarthy explores what effects the impeachment proceedings are having on voter sentiment and we commemorate Clive James. In an interview with Phillip in 2006, the late raconteur reveals his love of the tango, Japanese culture and Peter Sellers.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/28-november-2019/11745670</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191128.mp3" type="audio/mp3" length="51431040" />
+				      <pubDate>Thu, 28 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/28-november-2019/11745670</guid>
+                <itunes:duration>53:34</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191128.mp3" type="audio/mp3" fileSize="51431040" medium="audio" expression="full" duration="53:34" />
+        </item>
+        <item>
+            <title>Tories in trouble with Twitter; Trump and right wing media; time to bring Russia in from the Cold? </title>
+                <itunes:subtitle>Ian Dunt wraps up the year in UK politics as the Brexit election looms.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Ian Dunt wraps up the year in UK politics as the Brexit election looms.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/27-november/11742628</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191127.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Wed, 27 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/27-november/11742628</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191127.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Bruce Shapiro and Christopher Tughendhat</title>
+                <itunes:subtitle>News from America with Bruce Shapiro and the history of Britain in books.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    News from America with Bruce Shapiro and the history of Britain in books.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/26-november-2019/11740100</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191126.mp3" type="audio/mp3" length="51482112" />
+				      <pubDate>Tue, 26 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/26-november-2019/11740100</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191126.mp3" type="audio/mp3" fileSize="51482112" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Laura Tingle; Westpac&#39;s money laundering scandal; Dreaming under Hitler</title>
+                <itunes:subtitle>It was China, China, China in parliament today.  Failure at controlling money laundering doesn&#39;t only damage Westpac managers, it hurts small communities throughout Asia and the Pacific who have no access to banking services. After Hitler came to power in 1933, Jewish journalist Charlotte Beradt began collecting the dreams of her fellow Berliners. Her work provides a unique insight into the effect authoritarian regimes have on unconscious thoughts</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    It was China, China, China in parliament today.  Failure at controlling money laundering doesn't only damage Westpac managers, it hurts small communities throughout Asia and the Pacific who have no access to banking services. After Hitler came to power in 1933, Jewish journalist Charlotte Beradt began collecting the dreams of her fellow Berliners. Her work provides a unique insight into the effect authoritarian regimes have on unconscious thoughts
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-25th-november-2019/11735172</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191125.mp3" type="audio/mp3" length="51429888" />
+				      <pubDate>Mon, 25 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-25th-november-2019/11735172</guid>
+                <itunes:duration>53:34</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191125.mp3" type="audio/mp3" fileSize="51429888" medium="audio" expression="full" duration="53:34" />
+        </item>
+        <item>
+            <title>The politics behind the Christchurch massacre and the history of Venus</title>
+                <itunes:subtitle>Journalist Jeff Sparrow traces the fascist roots of the Christchurch massacre and British historian Bettany Hughes explores the darker side of the goddess Venus.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Journalist Jeff Sparrow traces the fascist roots of the Christchurch massacre and British historian Bettany Hughes explores the darker side of the goddess Venus.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/21-november-2019/11724324</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191121.mp3" type="audio/mp3" length="51232512" />
+				      <pubDate>Thu, 21 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/21-november-2019/11724324</guid>
+                <itunes:duration>53:22</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191121.mp3" type="audio/mp3" fileSize="51232512" medium="audio" expression="full" duration="53:22" />
+        </item>
+        <item>
+            <title>Asbestos in Asia, Alexander von Humboldt and vale Colin Tatz</title>
+                <itunes:subtitle>Asbestos on the rise in Asia, who was Alexander von Humboldt and vale Colin Tatz</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Asbestos on the rise in Asia, who was Alexander von Humboldt and vale Colin Tatz
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/20-november-2019/11723168</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191120.mp3" type="audio/mp3" length="51418368" />
+				      <pubDate>Wed, 20 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/20-november-2019/11723168</guid>
+                <itunes:duration>53:33</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191120.mp3" type="audio/mp3" fileSize="51418368" medium="audio" expression="full" duration="53:33" />
+        </item>
+        <item>
+            <title>19 November 2019</title>
+                <itunes:subtitle>Bruce Shapiro on Trump&#39;s impeachment hearings; Google&#39;s obsession with your health; and the forest that will become books to fill a library - in the year 2114.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce Shapiro on Trump's impeachment hearings; Google's obsession with your health; and the forest that will become books to fill a library - in the year 2114.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/19-november-2019/11719260</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191119.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Tue, 19 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/19-november-2019/11719260</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191119.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>The adventures of Di Morrissey</title>
+                <itunes:subtitle>Di Morrissey has come full circle coming back to her birth place and journalistic roots.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Di Morrissey has come full circle coming back to her birth place and journalistic roots.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-18th-november-2019/11714214</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191118.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Mon, 18 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-18th-november-2019/11714214</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191118.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Geoffrey Robertson on museums of plunder and LNL Revisited: Geraldine Brooks </title>
+                <itunes:subtitle>Geoffrey Robertson discusses why the British Museum should &quot;wash its hands of blood&quot; and return the Elgin marbles, the Benin bronzes and &quot;other pilfered cultural property.”</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Geoffrey Robertson discusses why the British Museum should "wash its hands of blood" and return the Elgin marbles, the Benin bronzes and "other pilfered cultural property.”
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/14-november-2019/11701628</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191114.mp3" type="audio/mp3" length="51481728" />
+				      <pubDate>Thu, 14 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/14-november-2019/11701628</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191114.mp3" type="audio/mp3" fileSize="51481728" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Ian Dunt&#39;s UK, climate change as a security threat and women at war</title>
+                <itunes:subtitle>Ian Dunt discusses how political parties in the UK are gearing up for the December 12 election, Danish academic Ole Wæver explains how political response to climate change could threaten democracy and Simon Parkin on the ingenious young British women who helped turn back Nazi U-boats in World War Two.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Ian Dunt discusses how political parties in the UK are gearing up for the December 12 election, Danish academic Ole Wæver explains how political response to climate change could threaten democracy and Simon Parkin on the ingenious young British women who helped turn back Nazi U-boats in World War Two.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/13-november-2019/11701768</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191113.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Wed, 13 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/13-november-2019/11701768</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191113.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Bruce Shapiro on US politics, Spain back to the polls, and understanding animals</title>
+                <itunes:subtitle>Bruce discusses the emergence of Michael Bloomberg for the Democrats, and other matters. Spain keeps on heading back to the polls. And a philosopher&#39;s take on the human/animal connection.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce discusses the emergence of Michael Bloomberg for the Democrats, and other matters. Spain keeps on heading back to the polls. And a philosopher's take on the human/animal connection.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/12-november-2019/11698256</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191112.mp3" type="audio/mp3" length="51481344" />
+				      <pubDate>Tue, 12 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/12-november-2019/11698256</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191112.mp3" type="audio/mp3" fileSize="51481344" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Laura Tingle; Bougainville Independence referendum; History of Climate Science</title>
+                <itunes:subtitle>Labor&#39;s election post-mortem. The referendum on independence for Bougainville starts on 23 November, what are the options for the future?</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Labor's election post-mortem. The referendum on independence for Bougainville starts on 23 November, what are the options for the future?
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-11th-november-2019/11693174</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191111.mp3" type="audio/mp3" length="51481344" />
+				      <pubDate>Mon, 11 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-11th-november-2019/11693174</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191111.mp3" type="audio/mp3" fileSize="51481344" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>US update, Soviet invasion of Afghanistan and the Poisoner&#39;s Handbook</title>
+                <itunes:subtitle>Daniel McCarthy brings us an update on the gubernatorial elections in the US, historian Elizabeth Leake on what role the CIA played in the Soviet invasion of Afghanistan and we revisit a classic from the LNL archives: Deborah Blum on the invention of modern forensic medicine.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Daniel McCarthy brings us an update on the gubernatorial elections in the US, historian Elizabeth Leake on what role the CIA played in the Soviet invasion of Afghanistan and we revisit a classic from the LNL archives: Deborah Blum on the invention of modern forensic medicine.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/7-november-2019/11676948</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191107.mp3" type="audio/mp3" length="51456384" />
+				      <pubDate>Thu, 07 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/7-november-2019/11676948</guid>
+                <itunes:duration>53:36</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191107.mp3" type="audio/mp3" fileSize="51456384" medium="audio" expression="full" duration="53:36" />
+        </item>
+        <item>
+            <title>Aged care and Charles Massy</title>
+                <itunes:subtitle>Aged care workers tell their story, as does 5th generation farmer Charles Massy.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Aged care workers tell their story, as does 5th generation farmer Charles Massy.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/6-november-2019/11678806</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191106.mp3" type="audio/mp3" length="51456000" />
+				      <pubDate>Wed, 06 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/6-november-2019/11678806</guid>
+                <itunes:duration>53:35</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191106.mp3" type="audio/mp3" fileSize="51456000" medium="audio" expression="full" duration="53:35" />
+        </item>
+        <item>
+            <title>Bruce Shapiro, unrest in Chile and Australia&#39;s islands</title>
+                <itunes:subtitle>An impeachment update, the source of Chile&#39;s unrest and Australia&#39;s islands reviewed</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    An impeachment update, the source of Chile's unrest and Australia's islands reviewed
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/5-november-2019/11674418</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191105.mp3" type="audio/mp3" length="51481344" />
+				      <pubDate>Tue, 05 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/5-november-2019/11674418</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191105.mp3" type="audio/mp3" fileSize="51481344" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Laura Tingle ;Health and Climate Change; The Woman behind the first fairy tale</title>
+                <itunes:subtitle>Quiet Australians and noisy minorities. The World Health Organisation has declared climate change to be &quot;the most significant threat of the 21st century.&quot; What impact is it having on Australians&#39; health?</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Quiet Australians and noisy minorities. The World Health Organisation has declared climate change to be "the most significant threat of the 21st century." What impact is it having on Australians' health?
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-4th-november-2019/11669666</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191104.mp3" type="audio/mp3" length="51482112" />
+				      <pubDate>Mon, 04 Nov 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-4th-november-2019/11669666</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/11/lnl_20191104.mp3" type="audio/mp3" fileSize="51482112" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Future of religion and Europe</title>
+                <itunes:subtitle>The history and future of religion and the history and future of Europe</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    The history and future of religion and the history and future of Europe
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/31-october-2019/11659234</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191031.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Thu, 31 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/31-october-2019/11659234</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191031.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Ian Dunt&#39;s UK, People Smuggling &amp; Mosquitoes</title>
+                <itunes:subtitle>Ian Dunt discusses the UK&#39;s upcoming December election, we look at the increasing risks of undocumented migration and we meet the most dangerous animal in the world, the mosquito.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Ian Dunt discusses the UK's upcoming December election, we look at the increasing risks of undocumented migration and we meet the most dangerous animal in the world, the mosquito.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/30-october-2019/11655662</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191030.mp3" type="audio/mp3" length="51475200" />
+				      <pubDate>Wed, 30 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/30-october-2019/11655662</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191030.mp3" type="audio/mp3" fileSize="51475200" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Report from America, France and the hijab, Naomi Klein</title>
+                <itunes:subtitle>Bruce Shapiro on the latest from the impeachment hearings, John Litchfield on the latest controversy surrounding the hijab in France, and Naomi Klein outlines the case for a green new deal.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce Shapiro on the latest from the impeachment hearings, John Litchfield on the latest controversy surrounding the hijab in France, and Naomi Klein outlines the case for a green new deal.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/29-october-2019/11650998</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191029.mp3" type="audio/mp3" length="51480192" />
+				      <pubDate>Tue, 29 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/29-october-2019/11650998</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191029.mp3" type="audio/mp3" fileSize="51480192" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Canberra Capers; Facial Recognition; George Seddon&#39;s legacy</title>
+                <itunes:subtitle>Shifting the goal posts in Canberra. Is facial recognition technology creating a dangerous mass surveillance system. Remembering George Seddon, an extraordinary polymath who radically rethought our relationship with the environment.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Shifting the goal posts in Canberra. Is facial recognition technology creating a dangerous mass surveillance system. Remembering George Seddon, an extraordinary polymath who radically rethought our relationship with the environment.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-28th-october-2019/11646138</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191028.mp3" type="audio/mp3" length="51480960" />
+				      <pubDate>Mon, 28 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-28th-october-2019/11646138</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191028.mp3" type="audio/mp3" fileSize="51480960" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Dan McCarthy&#39;s America, fake news in Asia and Dr Claire Weekes</title>
+                <itunes:subtitle>Dan McCarthy on Republicans storming the impeachment inquiry, how fake news is threatening democracy in South East Asia and Judith Hoare celebrates the pioneering Australian doctor who cracked the anxiety code.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Dan McCarthy on Republicans storming the impeachment inquiry, how fake news is threatening democracy in South East Asia and Judith Hoare celebrates the pioneering Australian doctor who cracked the anxiety code.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/24-october-2019/11636840</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191024.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Thu, 24 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/24-october-2019/11636840</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191024.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Lebanon protests, Taiwan tension and Megafauna</title>
+                <itunes:subtitle>Protests in Lebanon, Security risks in Taiwan and the end of the megafauna</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Protests in Lebanon, Security risks in Taiwan and the end of the megafauna
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/23-october-2019/11632470</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191023.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Wed, 23 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/23-october-2019/11632470</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191023.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Bruce Shapiro on US politics; highway through the Amazon; crabs and conflict</title>
+                <itunes:subtitle>Bruce Shapiro on two bizarre press conferences, and more. President Bolsonaro is rebuilding a highway through the Amazon. And what crabs can tell us about when conflict is necessary</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce Shapiro on two bizarre press conferences, and more. President Bolsonaro is rebuilding a highway through the Amazon. And what crabs can tell us about when conflict is necessary
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/22-october-2019/11628798</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191022.mp3" type="audio/mp3" length="51457920" />
+				      <pubDate>Tue, 22 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/22-october-2019/11628798</guid>
+                <itunes:duration>53:36</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191022.mp3" type="audio/mp3" fileSize="51457920" medium="audio" expression="full" duration="53:36" />
+        </item>
+        <item>
+            <title>Canberra politics; Early Indians; Hilton bombing</title>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-21st-october-2019/11623574</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191021.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Mon, 21 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-21st-october-2019/11623574</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191021.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Asia&#39;s El Chapo and the end of the Cold War</title>
+                <itunes:subtitle>Asia&#39;s El Chapo&#39;s identity revealed and how the Cold War ended peacefully</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Asia's El Chapo's identity revealed and how the Cold War ended peacefully
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/17-october-2019/11612558</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191017.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Thu, 17 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/17-october-2019/11612558</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191017.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title> Brexit, and vale Harold Bloom</title>
+                <itunes:subtitle>Ian Dunt on Brexit. And Harold Bloom remembered.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Ian Dunt on Brexit. And Harold Bloom remembered.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/16-october-2019/11608508</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191016.mp3" type="audio/mp3" length="51473664" />
+				      <pubDate>Wed, 16 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/16-october-2019/11608508</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191016.mp3" type="audio/mp3" fileSize="51473664" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>US update, Turkey&#39;s Syria offensive and ISIS brides  </title>
+                <itunes:subtitle>Bruce mulls over the Columbus Day debate and brings us the latest on the Impeachment inquiry, Joost Hiltermann updates us on Turkey&#39;s military offensive in northern Syria and the Iranian-American journalist Azadeh Moaveni discusses the fate of the young women who joined Islamic State.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce mulls over the Columbus Day debate and brings us the latest on the Impeachment inquiry, Joost Hiltermann updates us on Turkey's military offensive in northern Syria and the Iranian-American journalist Azadeh Moaveni discusses the fate of the young women who joined Islamic State.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/15-october-2019/11604988</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191015.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Tue, 15 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/15-october-2019/11604988</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191015.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Canberra, China and ASIO and author Jung Chang</title>
+                <itunes:subtitle>Katharine Murphy with the latest from Canberra, David Uren on the role of ASIO in foreign investment decisions and Jung Chang on the Soong sisters</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Katharine Murphy with the latest from Canberra, David Uren on the role of ASIO in foreign investment decisions and Jung Chang on the Soong sisters
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/21-october-2019/11600690</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191014.mp3" type="audio/mp3" length="51481728" />
+				      <pubDate>Mon, 14 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/21-october-2019/11600690</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191014.mp3" type="audio/mp3" fileSize="51481728" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Cyber security conference speakers dumped. US prisoners and the right to read. Maps and memories in the Middle East</title>
+                <itunes:subtitle>NSA whistle blower Thomas Drake and academic Suelette Dreyfus reflect on free speech and why they were disinvited to a recent cyber security conference.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    NSA whistle blower Thomas Drake and academic Suelette Dreyfus reflect on free speech and why they were disinvited to a recent cyber security conference.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/10th-october-2019/11590382</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191010.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Thu, 10 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/10th-october-2019/11590382</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191010.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>LNL Wednesday 9th October</title>
+                <itunes:subtitle>Some of the Hong Kong protest leaders have now said violence is their only option. We get an update on how the divisions in Hong Kong are likely to pan out.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Some of the Hong Kong protest leaders have now said violence is their only option. We get an update on how the divisions in Hong Kong are likely to pan out.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-wednesday-9th-october/11587030</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191009.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Wed, 09 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-wednesday-9th-october/11587030</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191009.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Bruce Shapiro on US politics; the Iraqi protests; Utopia the TV series</title>
+                <itunes:subtitle>Bruce Shapiro on the new Supreme Court, the second whistleblower and Trump&#39;s surprising foreign policy move.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce Shapiro on the new Supreme Court, the second whistleblower and Trump's surprising foreign policy move.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/8-october-2019/11584344</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191008.mp3" type="audio/mp3" length="51460608" />
+				      <pubDate>Tue, 08 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/8-october-2019/11584344</guid>
+                <itunes:duration>53:36</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191008.mp3" type="audio/mp3" fileSize="51460608" medium="audio" expression="full" duration="53:36" />
+        </item>
+        <item>
+            <title>Lex Marinos</title>
+                <itunes:subtitle>Lex Marinos: writer, actor, producer, director, broadcaster, advisor</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Lex Marinos: writer, actor, producer, director, broadcaster, advisor
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-7th-october,2019/11574378</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191007.mp3" type="audio/mp3" length="51480960" />
+				      <pubDate>Mon, 07 Oct 2019 22:05:00 +1100</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-7th-october,2019/11574378</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191007.mp3" type="audio/mp3" fileSize="51480960" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Impeachment, Afghanistan elections and mudlarking</title>
+                <itunes:subtitle>Dan McCarthy on the campaign to impeach President Trump. Election observer Srinjoy Bose and the latest from  Afghanistan and amateur archaeologist Lara Miallem goes mudlarking on the banks of the river Thames.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Dan McCarthy on the campaign to impeach President Trump. Election observer Srinjoy Bose and the latest from  Afghanistan and amateur archaeologist Lara Miallem goes mudlarking on the banks of the river Thames.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/3rd-october-2019/11568776</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191003.mp3" type="audio/mp3" length="51473280" />
+				      <pubDate>Thu, 03 Oct 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/3rd-october-2019/11568776</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191003.mp3" type="audio/mp3" fileSize="51473280" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Ian Dunt&#39;s UK; Where power stops; How charts lie</title>
+                <itunes:subtitle>Ian Dunt brings us the latest news from the UK including Boris Johnson&#39;s &#39;final&#39; Brexit offer and the highs and lows of the Conservative Party conference. In the age of populism what makes and destroys a political leader.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Ian Dunt brings us the latest news from the UK including Boris Johnson's 'final' Brexit offer and the highs and lows of the Conservative Party conference. In the age of populism what makes and destroys a political leader.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-wednesday-2nd-october-2019/11568060</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191002.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Wed, 02 Oct 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-wednesday-2nd-october-2019/11568060</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191002.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Impeachment scandal, the Ukrainian affair and Penny Wong bio</title>
+                <itunes:subtitle>Bruce brings us the latest on the impeachment scandal and President Trump&#39;s request for Australian help in investigating the Mueller inquiry, Michael Colborne discusses the fall-out from the Trump-Zelensky phone call and Margaret Simons explains how she came to write the first-ever biography of Penny Wong.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce brings us the latest on the impeachment scandal and President Trump's request for Australian help in investigating the Mueller inquiry, Michael Colborne discusses the fall-out from the Trump-Zelensky phone call and Margaret Simons explains how she came to write the first-ever biography of Penny Wong.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/1-october-2019/11564886</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191001.mp3" type="audio/mp3" length="51464832" />
+				      <pubDate>Tue, 01 Oct 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/1-october-2019/11564886</guid>
+                <itunes:duration>53:36</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/10/lnl_20191001.mp3" type="audio/mp3" fileSize="51464832" medium="audio" expression="full" duration="53:36" />
+        </item>
+        <item>
+            <title>Canberra Politics; Hate and Health; Black Holes</title>
+                <itunes:subtitle>Anxiety about Climate change policy dominates national politics. We spend billions on health care but is it making us any healthier? What are black holes and wormholes?</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Anxiety about Climate change policy dominates national politics. We spend billions on health care but is it making us any healthier? What are black holes and wormholes?
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-30th-september-2019/11560350</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190930.mp3" type="audio/mp3" length="51476736" />
+				      <pubDate>Mon, 30 Sep 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-monday-30th-september-2019/11560350</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190930.mp3" type="audio/mp3" fileSize="51476736" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>A portrait of Gillian Triggs, human rights defender</title>
+                <itunes:subtitle>Gillian Triggs explains where her passion for human rights came from.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Gillian Triggs explains where her passion for human rights came from.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/26-september-2019/11550028</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190926.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Thu, 26 Sep 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/26-september-2019/11550028</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190926.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>LNL Wednesday 25th September 2019</title>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/lnl-wednesday-25th-september-2019/11547204</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190925.mp3" type="audio/mp3" length="51474816" />
+				      <pubDate>Wed, 25 Sep 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/lnl-wednesday-25th-september-2019/11547204</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190925.mp3" type="audio/mp3" fileSize="51474816" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>24 September 2019</title>
+                <itunes:subtitle>Bruce Shapiro on US politics. West Papuan violence escalation. Softbank&#39;s vision of the future.</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    Bruce Shapiro on US politics. West Papuan violence escalation. Softbank's vision of the future.
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/24-september-2019/11544506</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190924.mp3" type="audio/mp3" length="51479808" />
+				      <pubDate>Tue, 24 Sep 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/24-september-2019/11544506</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190924.mp3" type="audio/mp3" fileSize="51479808" medium="audio" expression="full" duration="53:37" />
+        </item>
+        <item>
+            <title>Canberra capers, the UN climate summit, Pine Gap</title>
+                <itunes:subtitle>The PM is in Washington, the UN climate summit and a history of Pine Gap reveals its secrets</itunes:subtitle>
+                <description>
+                    <![CDATA[
+                    The PM is in Washington, the UN climate summit and a history of Pine Gap reveals its secrets
+                    ]]>
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/latenightlive/23-september-2019/11540536</link>
+            <enclosure url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190923.mp3" type="audio/mp3" length="51478272" />
+				      <pubDate>Mon, 23 Sep 2019 22:05:00 +1000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/latenightlive/23-september-2019/11540536</guid>
+                <itunes:duration>53:37</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/rn/podcast/2019/09/lnl_20190923.mp3" type="audio/mp3" fileSize="51478272" medium="audio" expression="full" duration="53:37" />
+        </item>
+    </channel>
+</rss>
