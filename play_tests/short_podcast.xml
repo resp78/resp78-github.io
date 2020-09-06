@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Short test podcast </title>
+    <itunes:subtitle>Subtitle for Short test podcast</itunes:subtitle>
+    <description>
+      <![CDATA[Description for Short test podcast]]>
+    </description>
+    <link>https://www.abc.net.au/radionational/programs/latenightlive/</link>
+    <copyright>Copyright 2020, Harmann. All Rights Reserved.</copyright>
+
+
+    <language>en-AU</language>
+    <image>
+      <title>Short test podcast</title>
+      <url>https://www.abc.net.au/cm/rimage/10928716-1x1-thumbnail.jpg?v=3</url>
+      <link>https://www.abc.net.au/radionational/programs/latenightlive/</link>
+    </image>
+    <itunes:image href="https://www.abc.net.au/cm/rimage/10928716-1x1-large.jpg?v=3"/>
+    <itunes:author>Harmann</itunes:author>
+    <itunes:owner>
+      <itunes:name>Harmann</itunes:name>
+      <itunes:email>Harmann@nomail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Description for Short test podcast</itunes:summary>
+    <programarid>ppyXD33JD6</programarid>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:category text="News">
+      <itunes:category text="Politics" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <lastBuildDate>Thu, 03 Sep 2020 22:05:00 +1000</lastBuildDate>
+    <item>
+      <title>Short test podcast #1</title>
+      <itunes:subtitle>Description fo Short test podcast #1</itunes:subtitle>
+      <description>
+        <![CDATA[Description fo Short test podcast #1]]>
+      </description>
+      <link>https://resp78.github.io/play_tests/short_1.m4a</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_1.m4a" type="audio/mp3" length="51474816" />
+      <pubDate>Thu, 03 Sep 2020 22:05:00 +1000</pubDate>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_1.m4a</guid>
+      <itunes:duration>00:05</itunes:duration>
+    </item>
+    <item>
+      <title>Short test podcast #2</title>
+      <itunes:subtitle>Description fo Short test podcast #2</itunes:subtitle>
+      <description>
+        <![CDATA[Description fo Short test podcast #2]]>
+      </description>
+      <link>https://resp78.github.io/play_tests/short_2.m4a</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_2.m4a" type="audio/mp3" length="51474816" />
+      <pubDate>Thu, 03 Sep 2020 22:15:00 +1000</pubDate>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_2.m4a</guid>
+      <itunes:duration>00:05</itunes:duration>
+    </item>
+    <item>
+      <title>Short test podcast #3</title>
+      <itunes:subtitle>Description fo Short test podcast #3</itunes:subtitle>
+      <description>
+        <![CDATA[Description fo Short test podcast #3]]>
+      </description>
+      <link>https://resp78.github.io/play_tests/short_3.m4a</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_3.m4a" type="audio/mp3" length="51474816" />
+      <pubDate>Thu, 03 Sep 2020 22:25:00 +1000</pubDate>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_3.m4a</guid>
+      <itunes:duration>00:05</itunes:duration>
+    </item>
+    <item>
+      <title>Short test podcast #4</title>
+      <itunes:subtitle>Description fo Short test podcast #4</itunes:subtitle>
+      <description>
+        <![CDATA[Description fo Short test podcast #4]]>
+      </description>
+      <link>https://resp78.github.io/play_tests/short_4.m4a</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_4.m4a" type="audio/mp3" length="51474816" />
+      <pubDate>Thu, 03 Sep 2020 22:35:00 +1000</pubDate>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_4.m4a</guid>
+      <itunes:duration>00:05</itunes:duration>
+    </item>
+  </channel>
+</rss>
