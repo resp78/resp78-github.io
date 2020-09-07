@@ -36,10 +36,10 @@
       <description>
         <![CDATA[Description fo Short test podcast #1]]>
       </description>
-      <link>https://resp78.github.io/play_tests/short_1.m4a</link>
-      <enclosure url="https://resp78.github.io/play_tests/short_1.m4a" type="audio/mp3" length="51474816" />
+      <link>https://resp78.github.io/play_tests/short_1.mp3</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_1.mp3" type="audio/mp3" length="51474816" />
       <pubDate>Thu, 03 Sep 2020 22:05:00 +1000</pubDate>
-      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_1.m4a</guid>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_1.mp3</guid>
       <itunes:duration>00:05</itunes:duration>
     </item>
     <item>
@@ -48,10 +48,10 @@
       <description>
         <![CDATA[Description fo Short test podcast #2]]>
       </description>
-      <link>https://resp78.github.io/play_tests/short_2.m4a</link>
-      <enclosure url="https://resp78.github.io/play_tests/short_2.m4a" type="audio/mp3" length="51474816" />
+      <link>https://resp78.github.io/play_tests/short_2.mp3</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_2.mp3" type="audio/mp3" length="51474816" />
       <pubDate>Thu, 03 Sep 2020 22:15:00 +1000</pubDate>
-      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_2.m4a</guid>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_2.mp3</guid>
       <itunes:duration>00:05</itunes:duration>
     </item>
     <item>
@@ -60,10 +60,10 @@
       <description>
         <![CDATA[Description fo Short test podcast #3]]>
       </description>
-      <link>https://resp78.github.io/play_tests/short_3.m4a</link>
-      <enclosure url="https://resp78.github.io/play_tests/short_3.m4a" type="audio/mp3" length="51474816" />
+      <link>https://resp78.github.io/play_tests/short_3.mp3</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_3.mp3" type="audio/mp3" length="51474816" />
       <pubDate>Thu, 03 Sep 2020 22:25:00 +1000</pubDate>
-      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_3.m4a</guid>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_3.mp3</guid>
       <itunes:duration>00:05</itunes:duration>
     </item>
     <item>
@@ -72,10 +72,10 @@
       <description>
         <![CDATA[Description fo Short test podcast #4]]>
       </description>
-      <link>https://resp78.github.io/play_tests/short_4.m4a</link>
-      <enclosure url="https://resp78.github.io/play_tests/short_4.m4a" type="audio/mp3" length="51474816" />
+      <link>https://resp78.github.io/play_tests/short_4.mp3</link>
+      <enclosure url="https://resp78.github.io/play_tests/short_4.mp3" type="audio/mp3" length="51474816" />
       <pubDate>Thu, 03 Sep 2020 22:35:00 +1000</pubDate>
-      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_4.m4a</guid>
+      <guid isPermaLink="true">https://resp78.github.io/play_tests/short_4.mp3</guid>
       <itunes:duration>00:05</itunes:duration>
     </item>
   </channel>
